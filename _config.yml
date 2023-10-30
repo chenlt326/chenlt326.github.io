@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Liutao CHEN"
   avatar           : "profile.png"
-  bio              : "Hi"
+  bio              : "A post-doctoral researcher at HKUST"
   location         : "Hong Kong SAR"
   employer         :
   pubmed           : #
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=NMrUZscAAAAJ"
   email            : "lchenco@connect.ust.hk"
+  LinkedIn         : "https://www.linkedin.com/in/liutao-chen-ab3727161/"
   researchgate     : "https://www.researchgate.net/profile/Liutao-Chen"
   uri              : #
   bitbucket        :
@@ -102,7 +103,6 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/liutao-chen-ab3727161/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-4206-6441"
   pinterest        :
   soundcloud       :
