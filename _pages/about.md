@@ -16,4 +16,3 @@ With a diverse background in building systems, urban meteorology, and hydrology,
 
 Throughout my academic journey, I have developed a strong foundation in interdisciplinary research, combining principles from engineering, environmental science, and urban planning. I am dedicated to exploring innovative solutions that address the challenges of urbanization and climate change, with the ultimate goal of creating more sustainable and resilient cities.
 
-You can find my CV here: [Liutao Chen's Curriculum Vitae] (../assets/CV_LC_en.pdf).
