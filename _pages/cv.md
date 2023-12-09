@@ -27,6 +27,7 @@ Work experience
 * 2019.9 – present: Teaching assistant, Civil and Environmental Engineering, HKUST
   * Provide guidance for 6 M.Sc. and 14 UG students in their final thesis, final year project, and Undergraduate Research Opportunities Program (UROP)
   * Responsible for conducting tutorials, grading assignments/exams, and addressing student inquiries for three undergraduate courses:
+    
     CIVL 3510 - Hydrosystems Engineering (2020 Fall)
     
     CIVL 2510 - Fluid Mechanics (2021 Spring, 2022 Spring)
