@@ -39,9 +39,11 @@ Work experience
     CIVL 4560 - Urban Hydroclimate and the Built Environment (2021 Fall)
 
 
+
 Research Interests
 ======
 Urban Heat Island; Urban Hydroclimate; Land-Atmosphere Interaction; Green Building and Sustainable Development; Impact assessment of renewable technology (e.g., Photovoltaic panel and Building – Integrated photovoltaic (BIPV) technology), and building energy simulation.
+
 
 
 Selected Honors and Awards
@@ -53,6 +55,7 @@ Selected Honors and Awards
 2019: 11th National Excellent Graduate in Hydraulic Engineering, China Association of Hydraulic Engineering Education
 
 2019: Outstanding Undergraduate Graduates, Sun Yat-sen University
+
 
 
 Publications
@@ -74,6 +77,7 @@ Publications
 [8] Song, Z., Chen, L., Wang, Y., Liu, X., Lin, L., & Luo, M. (2019). Effects of urbanization on the decrease in sunshine duration over eastern China. Urban Climate, 28, 100471.
 
 
+
 Conference Presentation
 ======
 [1] 11th International Conference on Urban Climate (ICUC), The International Association for Urban Climate (IAUC), Oral, Sydney (Australia), Aug 2023.
@@ -88,12 +92,14 @@ Conference Presentation
 
 [6] 8th National Urban Meteorological Academic Forum, Chinese Meteorological Society. Oral, Online, Oct 2021.
 
+
   
 Projects
 ======
 [1] Toward 2060 Carbon Neutrality: Life-cycle Planning and Design of Photovoltaic Integrated Green Roof (PVIGR) Systems for Hong Kong and the Greater Bay Area, Hong Kong Research Grant Committee, Collaborative Research Fund, C6003-22Y, 2023 – 2026, Collaborator.
 
 [2] Interaction mechanisms between building energy consumption and urban climate, National Natural Science Foundation of China, 2021 – present, Principal researcher.
+
 
 
 Service and Professional Memberships
@@ -105,6 +111,7 @@ Service and Professional Memberships
 [3] Member of Asia Oceania Geosciences Society (AOGS), since 2022. 
 
 [4] Member of International Association for Urban Climate (IAUC), since 2023.
+
 
   
 Skills
