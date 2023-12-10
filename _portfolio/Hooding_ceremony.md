@@ -2,6 +2,7 @@
 title: "Hooding day"
 date: 2023-12-01
 collection: portfolio
+permalink: /portfolio/
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
