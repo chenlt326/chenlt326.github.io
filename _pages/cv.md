@@ -34,16 +34,11 @@ Work experience
 
 Research Interests
 ======
-  * Urban Climate; Urban Heat Island; Land-Atmosphere Interaction;
+  * Urban Climate; Urban Heat Island; Land-Atmosphere Interaction; 
   * Green Building and Sustainable Development;
   * Impact Assessment of Renewable Energy Technology (e.g., Photovoltaic panel and Building–integrated photovoltaic (BIPV) technology);
   * Performance-driven Architecture and Urban Design.
 
-#Urban Climate: Investigating the dynamics of urban climate, including the urban heat island effect, urban microclimates, and the interaction #between land and atmosphere in urban areas.
-#Green Building and Sustainable Development: Exploring strategies and practices for promoting sustainable development in the built #environment, with an emphasis on integrating renewable energy sources, energy-efficient design principles, and sustainable materials.
-#Impact Assessment of Renewable Energy Technologies: Evaluating the environmental, social, and economic impacts of renewable energy #technologies, such as photovoltaic panels and building-integrated photovoltaic (BIPV) systems, in the context of sustainable building #development and urban planning.
-#Building Energy Simulation and Performance Optimization: Utilizing advanced simulation models and analysis techniques to assess and optimize #the energy performance of buildings, with a focus on integrating renewable technologies, improving overall energy efficiency, and enhancing #occupant comfort.
-#Performance-Driven Architecture and Urban Design: Integrating performance-based approaches into architectural and urban design processes to #enhance the efficiency, resilience, and sustainability of built environments, considering factors such as energy consumption, thermal #comfort, and urban microclimate.
 
 Selected Honors and Awards
 ======
