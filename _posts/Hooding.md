@@ -2,6 +2,7 @@
 title: "Hooding day"
 date: 2023-11-17
 collection: posts
+permalink: /posts/
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
