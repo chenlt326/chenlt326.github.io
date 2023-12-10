@@ -13,8 +13,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "posts"
-    url: /posts/    
+#  - title: "posts"
+#    url: /posts/    
     
   - title: "Portfolio"
     url: /Portfolio/
