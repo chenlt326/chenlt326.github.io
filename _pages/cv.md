@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * B.E. (2019), Hydrology and Water Resources Engineering, School of Geography and Planning, Sun Yat-sen University, Guangzhou, China.
-   Supervisor: Prof. Jianyao Chen (chenjyao@mail.sysu.edu.cn) 
-   GPA: 91/100
+  * Supervisor: Prof. Jianyao Chen (chenjyao@mail.sysu.edu.cn)
+  * GPA: 91/100
 * Ph.D. (2023), Civil and Environmental Engineering, Hong Kong University of Science and Technology, Hong Kong SAR, China.
-   Supervisor: Prof. Jiachuan Yang (cejcyang@ust.hk)
-   GPA: 3.922/4.3
+  * Supervisor: Prof. Jiachuan Yang (cejcyang@ust.hk)
+  * GPA: 3.922/4.3
 
 
 Work experience
@@ -27,13 +27,9 @@ Work experience
 * 2019.9 – present: Teaching assistant, Civil and Environmental Engineering, HKUST
   * Provide guidance for 6 M.Sc. and 14 UG students in their final thesis, final year project, and Undergraduate Research Opportunities Program (UROP)
   * Responsible for conducting tutorials, grading assignments/exams, and addressing student inquiries for three undergraduate courses:
-    
-    CIVL 3510 - Hydrosystems Engineering (2020 Fall)
-    
-    CIVL 2510 - Fluid Mechanics (2021 Spring, 2022 Spring)
-    
-    CIVL 4560 - Urban Hydroclimate and the Built Environment (2021 Fall)
-
+    * CIVL 3510 - Hydrosystems Engineering (2020 Fall)
+    * CIVL 2510 - Fluid Mechanics (2021 Spring, 2022 Spring)
+    * CIVL 4560 - Urban Hydroclimate and the Built Environment (2021 Fall)
 
 
 Research Interests
@@ -44,14 +40,10 @@ Urban Heat Island; Urban Hydroclimate; Land-Atmosphere Interaction; Green Buildi
 
 Selected Honors and Awards
 ======
-2022:	RedBird Academic Excellence Award, HKUST Fok Ying Tung Graduate School
-
-2019 – 2023: Postgraduate Studentship, Hong Kong University of Science and Technology
-
-2019: 11th National Excellent Graduate in Hydraulic Engineering, China Association of Hydraulic Engineering Education
-
-2019: Outstanding Undergraduate Graduates, Sun Yat-sen University
-
+* 2022:	RedBird Academic Excellence Award, HKUST Fok Ying Tung Graduate School
+* 2019 – 2023: Postgraduate Studentship, Hong Kong University of Science and Technology
+* 2019: 11th National Excellent Graduate in Hydraulic Engineering, China Association of Hydraulic Engineering Education
+* 2019: Outstanding Undergraduate Graduates, Sun Yat-sen University
 
 
 Publications
