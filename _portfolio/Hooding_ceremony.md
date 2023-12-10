@@ -20,10 +20,10 @@ permalink: /portfolio/
     <p> HKUST Congregation 2023 - Hooding Ceremony of PhD Graduates on Nov 17, 2023 </p>
   </div>
   <div class="photo-container">
-    <img src="/images/Photo1.png">
+    <img src="/images/Photo2.png">
   </div>
   <div class="photo-container">
-    <img src="/images/Photo1.png">
+    <img src="/images/Photo3.png">
   </div>
 </div>
 
