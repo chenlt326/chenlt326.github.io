@@ -2,19 +2,17 @@
 title: "BIPV window series"
 collection: publications
 permalink: /publication/BIPV_series
-#excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Intro: Building-integrated photovoltaic technology (BIPV) has been proven as an effective way to increase renewable energy and achieve low carbon in the urban environment. Due to the lack of modelling tools, the impact of BIPV window in the street canyon has not yet been well understood. In this series, we conducted three studies to explore the BIPV window impact on canyon air temperature and energy performance in different cities.'
 date: 2023-11-28
-venue: 'Renewable Energy','Building and Environment', 'Energy and Buildings'
+venue: 'Renewable Energy, Building and Environment, Energy and Buildings'
 paperurl: 'http://chenlt326.github.io/files/BIPV_Poster_LC.pdf'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
 Intro:
 Building-integrated photovoltaic technology (BIPV) has been proven as an effective way to increase renewable energy and achieve low carbon in the urban environment. Due to the lack of modelling tools, the impact of BIPV window in the street canyon has not yet been well understood. In this series, we conducted three studies to explore the BIPV window impact on canyon air temperature and energy performance in different cities.
-
-
+  
 [Get the poster for further information.](http://chenlt326.github.io/files/BIPV_Poster_LC.pdf)
-
 
 Model development and validation: 
 
