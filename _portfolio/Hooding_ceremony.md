@@ -7,7 +7,7 @@ permalink: /portfolio/
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div>
-    <img src="/images/Photo1.jpg" style="max-width: 400px; max-height: 300px;">
+    <img src="/images/Photo1.png" style="max-width: 400px; max-height: 300px;">
     <p> HKUST Congregation 2023 - Hooding Ceremony of PhD Graduates on Nov 17, 2023, </p>
   </div>
   <div>
