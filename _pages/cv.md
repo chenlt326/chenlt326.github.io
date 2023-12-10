@@ -12,15 +12,11 @@ redirect_from:
 Education
 ======
 * B.E. (2019), Hydrology and Water Resources Engineering, School of Geography and Planning, Sun Yat-sen University, Guangzhou, China.
-
-       Supervisor: Prof. Jianyao Chen (chenjyao@mail.sysu.edu.cn) 
-
-       GPA: 91/100
+   Supervisor: Prof. Jianyao Chen (chenjyao@mail.sysu.edu.cn) 
+   GPA: 91/100
 * Ph.D. (2023), Civil and Environmental Engineering, Hong Kong University of Science and Technology, Hong Kong SAR, China.
-
-       Supervisor: Prof. Jiachuan Yang (cejcyang@ust.hk)
-
-       GPA: 3.922/4.3
+   Supervisor: Prof. Jiachuan Yang (cejcyang@ust.hk)
+   GPA: 3.922/4.3
 
 
 Work experience
