@@ -13,6 +13,8 @@ Intro: This series marked the beginning of my research journey as an undergradua
 
 Publications:
 [1] Wang, Y., Chen, L., Song, Z., Huang, Z., Ge, E., Lin, L., & Luo, M. (2019). Human-perceived temperature changes over South China: Long-term trends and urbanization effects. Atmospheric Research, 215, 116-127.
+
 [2] Chen, L., Chen, X., Cheng, L., Zhou, P., & Liu, Z. (2019). Compound hot droughts over China: Identification, risk patterns and variations. Atmospheric Research, 227, 210-219.
+
 [3] Song, Z., Chen, L., Wang, Y., Liu, X., Lin, L., & Luo, M. (2019). Effects of urbanization on the decrease in sunshine duration over eastern China. Urban Climate, 28, 100471.
  
