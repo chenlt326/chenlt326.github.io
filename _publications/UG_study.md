@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Research Odyssey"
+title: "Extremes events series"
 collection: publications
 #permalink: /publication/BIPV_series
 #excerpt: 'Intro'
@@ -8,7 +8,7 @@ venue: 'Atmospheric Research, Urban Climate'
 #paperurl: 'http://chenlt326.github.io/files/BIPV_Poster_LC.pdf'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-Intro: This marked the beginning of my research journey as an undergraduate student, where I focused on studying the patterns of climate extremes and their connection to urbanization. I aimed to understand how human activities impact the distribution of climate extremes over time and space.
+Intro: This series marked the beginning of my research journey as an undergraduate student, where I focused on studying the patterns of climate extremes and their connection to urbanization. I aimed to understand how human activities impact the distribution of climate extremes over time and space.
  I would like to express my heartfelt gratitude to my co-authors, particularly my supervisors and teammates, for their unwavering support and invaluable guidance throughout this research journey. 
 
 Publications:
