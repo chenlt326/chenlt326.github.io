@@ -88,7 +88,7 @@ Projects
 ======
 [1] Toward 2060 Carbon Neutrality: Life-cycle Planning and Design of Photovoltaic Integrated Green Roof (PVIGR) Systems for Hong Kong and the Greater Bay Area, Hong Kong Research Grant Committee, Collaborative Research Fund, C6003-22Y, 2023 – 2026, Principal researcher.
 
-[2] Interaction mechanisms between building energy consumption and urban climate, National Natural Science Foundation of China, 2021 – present, Principal researcher.
+[2] Interaction mechanisms between building energy consumption and urban climate, National Natural Science Foundation of China, 2021 – 2023, Principal researcher.
 
 
 
