@@ -50,9 +50,9 @@ Selected Honors and Awards
 
 Publications
 ======
-[1] Chen, L., Yang, J., Zheng, X., Modelling the impact of building energy consumption on urban thermal environment: the bias of the inventory approach, Urban Climate, under 2nd review.
+[1] Chen, L., Yang, J., Zheng, X. (2024). Modelling the impact of building energy consumption on urban thermal environment: The bias of the inventory approach, Urban Climate, 53, 101802.
 
-[2] Chen, L., Sun, Y., Zhang, N., Yang, J., & Wang, D. (2023). Quantifying the benefits of BIPV windows in urban environment under climate change: A comparison of three Chinese cities. Renewable Energy, 119740.
+[2] Chen, L., Sun, Y., Zhang, N., Yang, J., & Wang, D. (2024). Quantifying the benefits of BIPV windows in urban environment under climate change: A comparison of three Chinese cities. Renewable Energy, 119740.
 
 [3] Zheng, X., Chen, L., & Yang, J. (2023). Simulation framework for early design guidance of urban streets to improve outdoor thermal comfort and building energy efficiency in summer. Building and Environment, 228, 109815.
 
