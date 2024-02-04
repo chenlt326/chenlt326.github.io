@@ -1,0 +1,43 @@
+---
+title: "Hooding day"
+date: 2023-11-17
+permalink: /portfolio/Hooding
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .photo-container {
+      width: calc(50% - 10px);
+    }
+
+    .photo-container img {
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <h1>{{ page.title }}</h1>
+  <p>Published: {{ page.date }}</p>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div class="photo-container">
+      <img src="/images/Photo2.png">
+      <p>Officially be hooded as PhD o(*￣▽￣*)ブ!</p>
+    </div>
+    <div class="photo-container">
+      <img src="/images/Photo1.png">
+      <p>A photo with my supervisor - Prof. Jiachuan Yang</p>
+    </div>
+    <div class="photo-container">
+      <img src="/images/Photo3.png">
+      <p>A photo with the department chair - Prof. Limin Zhang</p>
+    </div>
+    <div class="photo-container">
+      <img src="/images/Photo4h.png">
+      <p>A photo with my groupmate - Dr. Chen Xuan</p>
+    </div>
+  </div>
+</body>
+</html>
