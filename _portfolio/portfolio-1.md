@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "News: 2023 Excellent Young Scientists Award"
+excerpt: "<br/><img src='/images/Photo_JC_WZ.png'style="width: 75%;">"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Congratulations to my Postdoc supervisor -- Prof. WANG Zhe, and my Ph.D. supervisor -- Prof. YANG Jiachuan, were named 2023 Excellent Young Scientists (EYS) by the National Natural Science Foundation of China (NSFC). It is really my honor to work and study under their guidance! <a href="https://seng.hkust.edu.hk/news/20230915/prof-wang-zhe-and-prof-yang-jiachuan-named-excellent-young-scientists-national-natural-science-foundation-china">News</a>
