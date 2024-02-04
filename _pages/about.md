@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Post-doctoral researcher in the Smart Building and Construction Lab, supervised by Prof. Zhe Wang (https://walterzwang.github.io/), in the Department of Civil and Environmental Engineering at The Hong Kong University of Science and Technology (HKUST).
+I am a Post-doctoral researcher in the Smart Building and Construction Lab, supervised by <a href="https://walterzwang.github.io/" style="text-decoration: none;">Prof. Zhe Wang</a>, in the Department of Civil and Environmental Engineering at The Hong Kong University of Science and Technology (HKUST).
 
 I completed my Ph.D. degree in 2023 from the Department of Civil and Environmental Engineering at HKUST, under the guidance of Prof. Jiachuan Yang (Urban Climate Research Group: https://cejcyang.people.ust.hk/index.html). Prior to that, I obtained my B.Eng. degree in 2019 with a major in Hydrology and Water Resources Engineering from the School of Geography and Planning, Sun Yat-Sen University.
 
