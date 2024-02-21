@@ -74,7 +74,7 @@ Conference Presentation
 
 [2] 20th Annual Meeting, Asia Oceania Geosciences Society (AOGS). Oral, Singapore, Jul 2023.
 
-[3] 9th National Urban Meteorological Academic Forum. Chinese Meteorological Society. Oral, Xiong An (China), May 2023. Received Best Paper Award.
+[3] 9th National Urban Meteorological Forum. Chinese Meteorological Society. Oral, Xiong An (China), May 2023. Received Best Paper Award.
 
 [4] 2022 AGU Fall Meeting, American Geophysical Union (AGU). Poster, Chicago (US), Dec 2022.
 
