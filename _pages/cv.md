@@ -80,7 +80,7 @@ Conference Presentation
 
 [5] 19th Annual Meeting, Asia Oceania Geosciences Society (AOGS). Poster, Online, Aug 2022.
 
-[6] 8th National Urban Meteorological Academic Forum, Chinese Meteorological Society. Oral, Online, Oct 2021.
+[6] 8th National Urban Meteorological Forum, Chinese Meteorological Society. Oral, Online, Oct 2021.
 
 
   
