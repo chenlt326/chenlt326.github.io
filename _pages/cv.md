@@ -94,7 +94,7 @@ Projects
 
 Service and Professional Memberships
 ======
-[1] Reviewer of Sustainable Cities and Society, Urban Climate, Journal of Applied Meteorology and Climatology​.
+[1] Reviewer of Sustainable Cities and Society, Energy and Buildings, Urban Climate, Journal of Applied Meteorology and Climatology​.
 
 [2] Member of American Geophysical Union (AGU), since 2022.
 
