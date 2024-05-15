@@ -16,10 +16,9 @@ My research primarily focuses on the performance and impact of various urban hea
 <br>
 <h2>Experiment Study</h2>
 Below is a video introducing the experiment we conducted at HKUST, exploring different rooftop mitigation strategies.
-<video width="640" height="480" controls>
-  <source src="/images/PVIGR_480p.mp4" type="video/mp4">
+
   [Click here to watch the video](http://chenlt326.github.io/files/PVIGR_480p.mp4)
-</video>
+
 *Video 1: Rooftop Mitigation Strategies Experiment.*
 <br>
 
