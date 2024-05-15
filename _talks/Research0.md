@@ -1,11 +1,11 @@
 ---
-#title: "Research"
-#collection: talks
-#type: "Talk"
+title: "Research"
+collection: talks
+type: "Talk"
 permalink: /talks/research
-#venue: "HKUST"
-#date: 2024-05-15
-#location: "HK"
+venue: "HKUST"
+date: 2024-05-15
+location: "HK"
 ---
 
 
