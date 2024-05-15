@@ -10,6 +10,7 @@ Climate and energy systems are intricately interacted, influencing and exacerbat
 ![Climate-Energy Interaction Diagram](/images/C_E.png)
 *Figure 1: Interaction of climate and energy systems.*
 
+\r
 My research primarily focuses on the performance and impact of various urban heat island mitigation strategies within the fields of urban climate and building energy, leveraging both experimental and simulation methodologies. 
 
 <h2>Experiment Study</h2>
