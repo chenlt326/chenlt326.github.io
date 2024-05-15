@@ -19,8 +19,8 @@ main:
   - title: "Moments"
     url: /moments/
         
- - title: "Research"
-   url: /research/
+# - title: "Gallery"
+#   url: /gallery/
     
  # - title: "Guide"
  #   url: /markdown/
