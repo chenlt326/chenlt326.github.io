@@ -1,7 +1,7 @@
 ---
 title: "Research"
 collection: research
-permalink: /research/
+permalink: /talks/
 ---
 
 Research
