@@ -16,7 +16,7 @@ My research primarily focuses on the performance and impact of various urban hea
 <br>
 <h2>Experiment Study</h2>
 Below is a video introducing the experiment we conducted at HKUST, exploring different rooftop mitigation strategies.
-<video src="/images/PVIGR_480p.mp4" controls></video>
+<video src="/images/PVIGR_480p.mp4" controls width="640" height="360">
 *Video 1: Rooftop Mitigation Strategies Experiment.*
 <br>
 
@@ -26,6 +26,7 @@ In terms of urban modeling tools, a building-integrated photovoltaic parameteriz
 ![UCM Diagram](/images/UCM.png)
 *Figure 2: Urban Canopy Model Framework.*
 
+<br>
 Additionally, a bottom-up physics-based urban scale building energy model is developed to estimate the performance of renewable and energy-efficient strategies from the building to the city scale.
 ![Urban Building Energy Model](/images/UBEM.png)
 *Figure 3: Urban Scale Building Energy Model.*
