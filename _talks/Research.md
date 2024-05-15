@@ -2,7 +2,7 @@
 #title: "Research"
 #collection: talks
 #type: "Research"
-permalink: /research/research1
+permalink: /research/
 #venue: "HKUST"
 #date: 2024-05-15
 #location: "HK"
