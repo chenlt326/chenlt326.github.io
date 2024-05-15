@@ -23,7 +23,7 @@ Below is a video introducing the experiment we conducted at HKUST, exploring dif
 <h2>Modelling Study</h2>
 In terms of urban modeling tools, a building-integrated photovoltaic parameterization scheme has been developed and incorporated into a building energy model coupled with a single-layer urban canopy model (BEM-SLUCM). This framework facilitates a detailed analysis of indoor-outdoor interactions and assesses the impacts of PV and green strategies on urban climate.
 ![Urban Canopy Model](/images/UCM.png)
-*Figure 2: Urban Canopy Model incorporating PV and green strategies.*
+*Figure 2: Urban Canopy Model Framework.*
 
 Additionally, a bottom-up physics-based urban scale building energy model is developed to estimate the performance of renewable and energy-efficient strategies from the building to the city scale.
 ![Urban Building Energy Model](/images/UBEM.png)
