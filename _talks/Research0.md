@@ -1,12 +1,13 @@
 ---
-title: "Research"
-collection: talks
-type: "Talk"
-permalink: /talks/research
-venue: "HKUST"
-date: 2024-05-15
-location: "HK"
+#title: "Research"
+#collection: talks
+#type: "Talk"
+permalink: /research/
+#venue: "HKUST"
+#date: 2024-05-15
+#location: "HK"
 ---
+
 
 Research
 ======
