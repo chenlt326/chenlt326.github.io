@@ -7,8 +7,6 @@ venue: "HKUST"
 #date: 2024-05-15
 location: "HK"
 ---
-
-
 Research
 ======
 Climate and energy systems are intricately interacted, influencing and exacerbating each other on both global and local scales.
