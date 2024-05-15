@@ -1,7 +1,7 @@
 ---
 title: "Research"
 collection: talks
-type: "Talk"
+type: "Research"
 permalink: /talks/research
 venue: "HKUST"
 #date: 2024-05-15
