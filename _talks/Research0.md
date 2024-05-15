@@ -17,7 +17,6 @@ Climate and energy systems are intricately interacted, influencing and exacerbat
 
 <br>
 My research primarily focuses on the performance and impact of various urban heat island mitigation strategies within the fields of urban climate and building energy, leveraging both experimental and simulation methodologies. 
-
 <br>
 <h2>Experiment Study</h2>
 Below is a video introducing the experiment we conducted at HKUST, exploring different rooftop mitigation strategies.
