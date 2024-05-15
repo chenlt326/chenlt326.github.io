@@ -1,5 +1,5 @@
 ---
-#title: "Research"
+title: "Research"
 #collection: talks
 #type: "Research"
 permalink: /talks/research
@@ -7,8 +7,8 @@ permalink: /talks/research
 #date: 2024-05-15
 #location: "HK"
 ---
-Research
-======
+#Research
+#======
 Climate and energy systems are intricately interacted, influencing and exacerbating each other on both global and local scales.
 ![Climate-Energy Interaction Diagram](/images/C_E.png)
 *Figure 1: Interaction of climate and energy systems.*
