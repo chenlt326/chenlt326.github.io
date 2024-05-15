@@ -1,6 +1,6 @@
 ---
 title: "Research"
-collection: research
+collection: talks
 permalink: /talks/
 ---
 
