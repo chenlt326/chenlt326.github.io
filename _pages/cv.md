@@ -42,6 +42,7 @@ Research Interests
 
 Selected Honors and Awards
 ======
+* 2023:	Innovation and Technology Fund (ITF) – Research Talent Hub, Innovation and Technology Commission, The Government of the Hong Kong SAR
 * 2022:	RedBird Academic Excellence Award, HKUST Fok Ying Tung Graduate School
 * 2019 – 2023: Postgraduate Studentship, Hong Kong University of Science and Technology
 * 2019: 11th National Excellent Graduate in Hydraulic Engineering, China Association of Hydraulic Engineering Education
