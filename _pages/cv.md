@@ -70,25 +70,29 @@ Publications
 
 Conference Presentation
 ======
-[1] 11th International Conference on Urban Climate (ICUC), The International Association for Urban Climate (IAUC), Oral, Sydney (Australia), Aug 2023.
+[1] 2nd International Bay Area Urban Agglomeration Green Development Conference (IBACEC) and the 2024 Academic Annual Meeting of Urban Agglomeration Green Development Committee of Chinese Society for Urban Studies (CSUS), Oral, Macau, Aug 2024.
 
-[2] 20th Annual Meeting, Asia Oceania Geosciences Society (AOGS). Oral, Singapore, Jul 2023.
+[2] Asian University Alliance (AUA) Seminar – Smart and low carbon city, Oral, Hong Kong, Jun 2024.
 
-[3] 9th National Urban Meteorological Forum. Chinese Meteorological Society. Oral, Xiong An (China), May 2023. Received Best Paper Award.
+[3] 11th International Conference on Urban Climate (ICUC), The International Association for Urban Climate (IAUC), Oral, Sydney (Australia), Aug 2023.
 
-[4] 2022 AGU Fall Meeting, American Geophysical Union (AGU). Poster, Chicago (US), Dec 2022.
+[4] 20th Annual Meeting, Asia Oceania Geosciences Society (AOGS). Oral, Singapore, Jul 2023.
 
-[5] 19th Annual Meeting, Asia Oceania Geosciences Society (AOGS). Poster, Online, Aug 2022.
+[5] 9th National Urban Meteorological Forum. Chinese Meteorological Society. Oral, Xiong An (China), May 2023. Received Best Paper Award.
 
-[6] 8th National Urban Meteorological Forum, Chinese Meteorological Society. Oral, Online, Oct 2021.
+[6] 2022 AGU Fall Meeting, American Geophysical Union (AGU). Poster, Chicago (US), Dec 2022.
+
+[7] 19th Annual Meeting, Asia Oceania Geosciences Society (AOGS). Poster, Online, Aug 2022.
+
+[8] 8th National Urban Meteorological Forum, Chinese Meteorological Society. Oral, Online, Oct 2021.
 
 
   
 Projects
 ======
-[1] Toward 2060 Carbon Neutrality: Life-cycle Planning and Design of Photovoltaic Integrated Green Roof (PVIGR) Systems for Hong Kong and the Greater Bay Area, Hong Kong Research Grant Committee, Collaborative Research Fund, C6003-22Y, 2023 – 2026, Principal researcher.
+[1] Toward 2060 Carbon Neutrality: Life-cycle Planning and Design of Photovoltaic Integrated Green Roof (PVIGR) Systems for Hong Kong and the Greater Bay Area, Hong Kong Research Grant Committee, Collaborative Research Fund, C6003-22Y, 2023 – 2026, Key member.
 
-[2] Interaction mechanisms between building energy consumption and urban climate, National Natural Science Foundation of China, 2021 – 2023, Principal researcher.
+[2] Interaction mechanisms between building energy consumption and urban climate, National Natural Science Foundation of China, 2021 – 2023, Key member.
 
 
 
