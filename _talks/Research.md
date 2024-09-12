@@ -19,11 +19,11 @@ My research primarily focuses on the performance and impact of various urban hea
 We have conducted a full-scale experiment to explore different rooftop mitigation strategies.
 ![Map](/images/Fig2map.png)
 *Figure 2: Site map of the four studied roofs at HKUST campus.*
+<!--
 #Below is a video introducing the experiment we conducted at HKUST, exploring different rooftop mitigation strategies.
-
- # [Click here to watch the video](http://chenlt326.github.io/files/PVIGR_480p.mp4)
-
+# [Click here to watch the video](http://chenlt326.github.io/files/PVIGR_480p.mp4)
 #*Video 1: Rooftop Mitigation Strategies Experiment.*
+-->
 <br>
 
 <h2>Modelling Study</h2>
