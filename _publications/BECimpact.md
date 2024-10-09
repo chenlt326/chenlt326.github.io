@@ -6,8 +6,7 @@ date: 2024-01-16
 venue: 'Urban Climate'
 ---
 
-Intro:  Building energy consumption is a primary driver of the indoor-outdoor interaction mechanism. We aim to explore its impact on the urban thermal environment and quantify the biases caused by the inventory approach - the most widely used approach to estimate anthropogenic heat emissions. 
-
+Intro:  Building energy consumption is a primary driver of the indoor-outdoor interaction mechanism. We aim to explore its impact on the urban thermal environment and quantify the biases caused by the inventory approach - the most widely used approach to estimate anthropogenic heat emissions.   
 [Get the poster for further information.](http://chenlt326.github.io/files/Poster_LC.pdf)
 
 Title: 
