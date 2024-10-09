@@ -11,7 +11,6 @@ venue: 'Renewable Energy, Building and Environment, Energy and Buildings'
 
 Intro:
 Building-integrated photovoltaic technology (BIPV) has been proven as an effective way to increase renewable energy and achieve low carbon in the urban environment. Due to the lack of modelling tools, the impact of BIPV window in the street canyon has not yet been well understood. In this series, we conducted three studies to explore the BIPV window impact on canyon air temperature and energy performance in different urban settings in cities.
-  
 [Get the poster for further information.](http://chenlt326.github.io/files/BIPV_Poster_LC.pdf)
 
 Model development and validation: 
