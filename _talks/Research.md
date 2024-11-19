@@ -49,8 +49,8 @@ When city has large-scale implementation of vertical PV facade, their impacts on
 <br>
 <p>
   Additionally, a bottom-up physics-based urban scale building energy model is developed to estimate the performance of renewable and energy-efficient strategies from the building to the city scale.
-  Curious about how your building in energy efficiency? 
+  Curious about how your building works in terms of energy efficiency? 
   <a href="http://cez027.ce.ust.hk/HongKongUrbanEnergy/UrbanEnergy.html">Click here to explore the energy use of buildings across Hong Kong!</a>
 </p>
-![Urban Building Energy Model](/images/UBEM.png)
-*Figure 5: Urban Scale Building Energy Model.*
+<img src="/images/UBEM.png" alt="Urban Building Energy Model">
+<p><em>Figure 5: Urban Scale Building Energy Model.</em></p>
