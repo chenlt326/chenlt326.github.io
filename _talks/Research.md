@@ -28,11 +28,9 @@ My research primarily focuses on the performance and impact of various urban hea
         Your browser does not support the video tag.
     </video>
     <p><em>Video 1: Rooftop Mitigation Strategies Experiment.</em></p>
-
-    
-<p><em>Video 1: Rooftop Mitigation Strategies Experiment.</em> <a href="http://chenlt326.github.io/files/Nov19_480p.mp4">Click here to watch the video</a>
-    
+  
 <!--
+#<p><em>Video 1: Rooftop Mitigation Strategies Experiment.</em> <a href="http://chenlt326.github.io/files/Nov19_480p.mp4">Click here to watch the video</a>
 #[Map](/images/Fig2map.png)
 #*Figure 3: Site map of the four studied roofs at HKUST campus.*
 -->
