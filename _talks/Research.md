@@ -16,11 +16,11 @@ Urban renewable technologies, such as PV, have great potential to improve energy
 ![PV](/images/PV.png)
 *Figure 2: PV role in the building energy and urban climate feedback.*
 
-<p>
+<br><br>
 <p style="font-size: 26px; font-weight: bold;">
     My research primarily focuses on the performance and impact of various urban heat island mitigation strategies within the fields of urban climate and building energy, leveraging both experimental and simulation methodologies.
 </p>
-<p>
+ 
     
 <!DOCTYPE html>
 <html lang="en">
