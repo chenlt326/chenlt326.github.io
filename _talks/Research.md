@@ -20,21 +20,24 @@ Urban renewable technologies, such as PV, have great potential to improve energy
 My research primarily focuses on the performance and impact of various urban heat island mitigation strategies within the fields of urban climate and building energy, leveraging both experimental and simulation methodologies. 
 <br>
 
-<h2>Experiment Study</h2>
-<p>We have conducted a full-scale experiment to explore different rooftop mitigation strategies.</p>
-<p>Below is a video introducing the experiment we conducted at HKUST, exploring different rooftop mitigation strategies.</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Example</title>
+</head>
+<body>
+    <h2>Experiment Study</h2>
+    <p>We have conducted a full-scale experiment to explore different rooftop mitigation strategies.</p>
+    <p>Below is a video introducing the experiment we conducted at HKUST, exploring different rooftop mitigation strategies.</p>
     <video width="480" height="360" controls>
         <source src="http://chenlt326.github.io/files/Nov19_480p.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
     <p><em>Video 1: Rooftop Mitigation Strategies Experiment.</em></p>
-  
-<!--
-#<p><em>Video 1: Rooftop Mitigation Strategies Experiment.</em> <a href="http://chenlt326.github.io/files/Nov19_480p.mp4">Click here to watch the video</a>
-#[Map](/images/Fig2map.png)
-#*Figure 3: Site map of the four studied roofs at HKUST campus.*
--->
-<br>
+</body>
+</html>
 
 <h2>Modelling Study</h2>
 When city has large-scale implementation of vertical PV facade, their impacts on urban energy balance are unknown. To fill the research gap, a building-integrated photovoltaic parameterization scheme has been developed and incorporated into a building energy model coupled with a single-layer urban canopy model (BEM-SLUCM). This modelling framework facilitates a detailed analysis of indoor-outdoor interactions and assesses the impacts of PV and green strategies on urban climate.
