@@ -11,7 +11,7 @@ permalink: /research/
 
 Climate and energy systems are intricately interacted, influencing and exacerbating each other on both global and local scales.
 ![Climate-Energy Interaction Diagram](/images/C_E.png)
-*Figure 1: Interaction of climate and energy systems.*
+*Figure 1: Interaction of climate and energy systems (Li et al., 2024).*
 
 Urban renewable technologies, such as PV, have great potential to improve energy efficiency and mitigate global warming.
 ![PV](/images/PV.png)
