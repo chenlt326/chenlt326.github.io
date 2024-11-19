@@ -19,11 +19,13 @@ Urban renewable technologies, such as PV, have great potential to improve energy
 <br>
 My research primarily focuses on the performance and impact of various urban heat island mitigation strategies within the fields of urban climate and building energy, leveraging both experimental and simulation methodologies. 
 <br>
+
 <h2>Experiment Study</h2>
-We have conducted a full-scale experiment to explore different rooftop mitigation strategies.
-Below is a video introducing the experiment we conducted at HKUST, exploring different rooftop mitigation strategies.
-[Click here to watch the video](http://chenlt326.github.io/files/Nov19_480p.mp4)
-*Video 1: Rooftop Mitigation Strategies Experiment.*
+<p>We have conducted a full-scale experiment to explore different rooftop mitigation strategies.</p>
+<p>Below is a video introducing the experiment we conducted at HKUST, exploring different rooftop mitigation strategies.</p>
+<a href="http://chenlt326.github.io/files/Nov19_480p.mp4">Click here to watch the video</a>
+<p><em>Video 1: Rooftop Mitigation Strategies Experiment.</em></p>
+    
 <!--
 #[Map](/images/Fig2map.png)
 #*Figure 3: Site map of the four studied roofs at HKUST campus.*
