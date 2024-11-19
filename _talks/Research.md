@@ -7,6 +7,7 @@ permalink: /research/
 #date: 2024-05-15
 #location: "HK"
 ---
+<!DOCTYPE html>
 
 Climate and energy systems are intricately interacted, influencing and exacerbating each other on both global and local scales.
 ![Climate-Energy Interaction Diagram](/images/C_E.png)
@@ -22,7 +23,6 @@ Urban renewable technologies, such as PV, have great potential to improve energy
 </p>
  
     
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
