@@ -46,6 +46,7 @@ When city has large-scale implementation of vertical PV facade, their impacts on
 ![UCM Diagram](/images/UCM.png)
 *Figure 4: Urban Canopy Model Framework.*
 
+<br>
 <p>
   Additionally, a bottom-up physics-based urban scale building energy model is developed to estimate the performance of renewable and energy-efficient strategies from the building to the city scale.
   Curious about how your building in energy efficiency? 
