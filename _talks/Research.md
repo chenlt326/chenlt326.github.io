@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 ---
 #title: "Research"
 #collection: talks
@@ -8,7 +7,6 @@ permalink: /research/
 #date: 2024-05-15
 #location: "HK"
 ---
-
 
 Climate and energy systems are intricately interacted, influencing and exacerbating each other on both global and local scales.
 ![Climate-Energy Interaction Diagram](/images/C_E.png)
@@ -23,7 +21,7 @@ Urban renewable technologies, such as PV, have great potential to improve energy
     My research primarily focuses on the performance and impact of various urban heat island mitigation strategies within the fields of urban climate and building energy, leveraging both experimental and simulation methodologies.
 </p>
  
-    
+<!DOCTYPE html>    
 <html lang="en">
 <head>
     <meta charset="UTF-8">
