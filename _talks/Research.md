@@ -23,6 +23,13 @@ My research primarily focuses on the performance and impact of various urban hea
 <h2>Experiment Study</h2>
 <p>We have conducted a full-scale experiment to explore different rooftop mitigation strategies.</p>
 <p>Below is a video introducing the experiment we conducted at HKUST, exploring different rooftop mitigation strategies.</p>
+    <video width="480" height="360" controls>
+        <source src="http://chenlt326.github.io/files/Nov19_480p.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <p><em>Video 1: Rooftop Mitigation Strategies Experiment.</em></p>
+
+    
 <p><em>Video 1: Rooftop Mitigation Strategies Experiment.</em> <a href="http://chenlt326.github.io/files/Nov19_480p.mp4">Click here to watch the video</a>
     
 <!--
