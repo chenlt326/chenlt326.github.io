@@ -17,7 +17,7 @@ Urban renewable technologies, such as PV, have great potential to improve energy
 *Figure 2: PV role in the building energy and urban climate feedback.*
 
 <br><br>
-<p style="font-size: 16px; font-weight: bold;">
+<p style="font-size: 24px; font-weight: bold;">
     My research primarily focuses on the performance and impact of various urban heat island mitigation strategies within the fields of urban climate and building energy, leveraging both experimental and simulation methodologies.
 </p>
  
@@ -30,8 +30,8 @@ Urban renewable technologies, such as PV, have great potential to improve energy
 </head>
 <body>
     <h2>Experiment Study</h2>
-    <p>We have conducted a full-scale experiment to explore different rooftop mitigation strategies.</p>
-    <p>Below is a video introducing the experiment we conducted at HKUST, exploring different rooftop mitigation strategies.</p>
+    <p>We have conducted a full-scale experiment to explore different rooftop mitigation strategies.
+    Below is a video introducing the experiment we conducted at HKUST, exploring different rooftop mitigation strategies.</p>
     <video width="480" height="360" controls>
         <source src="http://chenlt326.github.io/files/Nov19_480p.mp4" type="video/mp4">
         Your browser does not support the video tag.
