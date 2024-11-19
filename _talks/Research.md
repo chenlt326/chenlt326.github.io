@@ -53,4 +53,4 @@ When city has large-scale implementation of vertical PV facade, their impacts on
   <a href="http://cez027.ce.ust.hk/HongKongUrbanEnergy/UrbanEnergy.html">Click here to explore the energy use of buildings across Hong Kong!</a>
 </p>
 <img src="/images/UBEM.png" alt="Urban Building Energy Model">
-<p><em>Figure 5: Urban Scale Building Energy Model.</em></p>
+<p><em>Figure 5: Testing retrofit measures using the Urban Scale Building Energy Model.</em></p>
