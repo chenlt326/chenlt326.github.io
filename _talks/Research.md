@@ -13,7 +13,7 @@ Climate and energy systems are intricately interacted, influencing and exacerbat
 *Figure 1: Interaction of climate and energy systems (Li et al., 2024).*
 
 Urban renewable technologies, such as PV, have great potential to improve energy efficiency and mitigate global warming.
-![PV](/images/PV.png)
+![PV](/images/PV1.png)
 *Figure 2: PV role in the building energy and urban climate feedback.*
 
 <br><br>
