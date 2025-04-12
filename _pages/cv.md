@@ -53,29 +53,48 @@ Selected Honors and Awards
 Publications
 ======
 [1] Chen, L., Lin, Z., Zhou, Q, Zhang, S., Li, M., Wang, Z. (2025). Impacts of photovoltaics and integrated green roofs on urban climate: Experimental insights for urban land surface modelling, Renewable and Sustainable Energy Reviews 217 (2025) 115709.
+
 [2] Chen, L., Yang, J., & Zheng, X. (2024). Modelling the impact of building energy consumption on urban thermal environment: The bias of the inventory approach. Urban Climate, 53, 101802.
+
 [3] Chen, L., Sun, Y., Zhang, N., Yang, J., & Wang, D. (2024). Quantifying the benefits of BIPV windows in urban environment under climate change: A comparison of three Chinese cities. Renewable Energy, 119740.
+
 [4] Chen, L., Yang, J., & Li, P. (2022). Modelling the effect of BIPV window in the built environment: Uncertainty and sensitivity. Building and Environment, 208, 108605.
+
 [5] Chen, L., Zheng, X., Yang, J., & Yoon, J. H. (2021). Impact of BIPV windows on building energy consumption in street canyons: Model development and validation. Energy and Buildings, 249, 111207.
+
 [6] Chen, L., Chen, X., Cheng, L., Zhou, P., & Liu, Z. (2019). Compound hot droughts over China: Identification, risk patterns and variations. Atmospheric Research, 227, 210-219.
+
 [7] Zhang, S., Chen, L., Xu, L., & Wang, Z. (2025). GeoBEM: A geospatial computing empowered framework for urban-scale building energy modeling. Sustainable Cities and Society, 106203.
+
 [8] Zhang, S., Zhou, Y., Chen, L., Huang, Y., & Wang, Z. (2025). Inferring building type using textual data and Natural Language Processing for urban building energy modelling. Building and Environment, 269, 112428.
+
 [9] Zheng, X., Chen, L., & Yang, J. (2023). Simulation framework for early design guidance of urban streets to improve outdoor thermal comfort and building energy efficiency in summer. Building and Environment, 228, 109815.
+
 [10] Wang, Y., Chen, L., Song, Z., Huang, Z., Ge, E., Lin, L., & Luo, M. (2019). Human-perceived temperature changes over South China: Long-term trends and urbanization effects. Atmospheric Research, 215, 116-127.
+
 [11] Song, Z., Chen, L., Wang, Y., Liu, X., Lin, L., & Luo, M. (2019). Effects of urbanization on the decrease in sunshine duration over eastern China. Urban Climate, 28, 100471.
 
 
 Conference Presentation
 ======
 [1] 2024 AGU Fall Meeting, American Geophysical Union (AGU). Elightning and Poster, Washington, DC (United States), Dec 2024.
+
 [2] 10th National Urban Meteorological Academic Forum, Chinese Meteorological Society. Poster, Hangzhou (China), Oct 2024.
+
 [3] 2nd International Bay Area Urban Agglomeration Green Development Conference (IBACEC) and the 2024 Academic Annual Meeting of Urban Agglomeration Green Development Committee of Chinese Society for Urban Studies (CSUS), Oral, Macau, Aug 2024.
+
 [4] Asian University Alliance (AUA) Seminar – Smart and low carbon city, Oral & Session chair, Hong Kong, Jun 2024.
+
 [5] 11th International Conference on Urban Climate (ICUC), The International Association for Urban Climate (IAUC), Oral, Sydney (Australia), Aug 2023.
+
 [6] 20th Annual Meeting, Asia Oceania Geosciences Society (AOGS). Oral, Singapore, Jul 2023.
+
 [7] 9th National Urban Meteorological Academic Forum. Chinese Meteorological Society. Oral, Xiong An (China), May 2023. Received Best Paper Award.
+
 [8] 2022 AGU Fall Meeting, American Geophysical Union (AGU). Poster, Chicago (US), Dec 2022.
+
 [9] 19th Annual Meeting, Asia Oceania Geosciences Society (AOGS). Poster, Online, Aug 2022.
+
 [10] 8th National Urban Meteorological Academic Forum, Chinese Meteorological Society. Oral, Online, Oct 2021.
 
 
