@@ -37,7 +37,7 @@ Research Interests
   * Urban Climate; Urban Heat Island; Land-Atmosphere Interaction; 
   * Urban-scale Building Energy Model; Green Building and Sustainable Development;
   * Impact Assessment of Renewable Energy Technology (e.g., Photovoltaic panel and Building–integrated photovoltaic (BIPV) technology);
-  * Public Health, Human thermal comfort;
+  * Public Health; Human thermal comfort;
   * Performance-driven Architecture and Urban Design.
 
 
