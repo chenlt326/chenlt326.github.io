@@ -8,10 +8,7 @@ permalink: /research/
 #location: "HK"
 ---
 
-Climate and energy systems are intricately interacted, influencing and exacerbating each other on both global and local scales.
-![Climate-Energy Interaction Diagram](/images/C_E.png)
-*Figure 1: Interaction of climate and energy systems (Li et al., 2024).*
-
+Climate and energy systems are deeply interconnected, creating feedback loops that amplify challenges at both global and local scales. Rising temperatures drive increased cooling demand, whose waste heat further intensifies urban warming.
 Urban renewable technologies, such as PV, have great potential to improve energy efficiency and mitigate global warming.
 ![PV](/images/PV1.png)
 *Figure 2: PV role in the building energy and urban climate feedback.*
