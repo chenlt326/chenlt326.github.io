@@ -7,8 +7,7 @@ venue: 'Renewable and Sustainable Energy Reviews, Building and Environment'
 ---
 
 Intro:
-While large-scale photovoltaic (PV) roofs are key to sustainable cities, their impacts on urban heat islands (UHI) remains debated due to a lack of experimental validation. To resolve this, our team conducted a field experiment monitoring multiple 200 m² rooftop configurations in subtropical Hong Kong—comparing bare roofs, PV roofs, and PV-integrated green roofs (PVIGRs). This study provides the first real-world evidence of their thermal trade-offs. The work has been reported in PV Magazine (https://www.pv-magazine.com/2025/06/10/rooftop-pv-may-unintentionally-exacerbate-urban-heat/).
-
+While large-scale photovoltaic (PV) roofs are key to sustainable cities, their impacts on urban heat islands (UHI) remains debated due to a lack of experimental validation. To resolve this, our team conducted a field experiment monitoring multiple 200 m² rooftop configurations in subtropical Hong Kong—comparing bare roofs, PV roofs, and PV-integrated green roofs (PVIGRs). This study provides the first real-world evidence of their thermal trade-offs. The work has been reported in <a href="https://www.pv-magazine.com/2025/06/10/rooftop-pv-may-unintentionally-exacerbate-urban-heat/" style="text-decoration: none;">PV Magazine</a>.
 
 References: 
 
@@ -22,5 +21,5 @@ Key Findings:
 
 - PVIGR Mitigation: Though PVIGRs showed no cooling above panels, they reduced PV canopy temperatures by 1.26 °C in July, lowering PV surface temp and building cooling loads.
 
-Our works have been reported in PV Magazine (https://www.pv-magazine.com/2025/06/10/rooftop-pv-may-unintentionally-exacerbate-urban-heat/) and LinkedIn (https://www.linkedin.com/posts/liutao-chen-ab3727161_urbanheatisland-pv-sustainblecities-activity-7316840966118653952-3TBj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACa6e2cB-KuMAi4tpnD_n2dqoTLovRxx36Q). These insights highlight the need for climate-adaptive PV designs to balance energy generation and urban heat resilience.
+Our works have been reported in <a href="https://www.pv-magazine.com/2025/06/10/rooftop-pv-may-unintentionally-exacerbate-urban-heat/" style="text-decoration: none;">PV Magazine</a> and <a href="https://www.linkedin.com/posts/liutao-chen-ab3727161_urbanheatisland-pv-sustainblecities-activity-7316840966118653952-3TBj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACa6e2cB-KuMAi4tpnD_n2dqoTLovRxx36Q" style="text-decoration: none;">LinkedIn</a>. These insights highlight the need for climate-adaptive PV designs to balance energy generation and urban heat resilience.
 
