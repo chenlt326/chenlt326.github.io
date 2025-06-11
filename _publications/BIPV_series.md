@@ -1,5 +1,5 @@
 ---
-title: "BIPV window series"
+title: "BIPV window series: Modeling microclimate and energy Impacts in urban canyons"
 collection: publications
 permalink: /publication/BIPV_series
 #excerpt: 'Intro'
