@@ -1,5 +1,5 @@
 ---
-title: "PhD thesis"
+title: "PhD thesis: Enhancing Building Energy Modelling in Urban Climate Simulation"
 collection: publications
 #permalink: /publication/BIPV_series
 #excerpt: 'Intro'
