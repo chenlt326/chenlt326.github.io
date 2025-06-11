@@ -1,5 +1,5 @@
 ---
-title: "Urban design series"
+title: "Urban design series: Simulation framework for early urban streets"
 collection: publications
 #permalink: /publication/Urban_design
 #excerpt: 'This paper develops a framework of parametric simulation for design guidance of urban streets.'
