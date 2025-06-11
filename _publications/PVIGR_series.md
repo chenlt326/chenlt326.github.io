@@ -9,7 +9,9 @@ venue: 'Renewable and Sustainable Energy Reviews, Building and Environment'
 Intro:
 While large-scale photovoltaic (PV) roofs are key to sustainable cities, their impacts on urban heat islands (UHI) remains debated due to a lack of experimental validation. To resolve this, our team conducted a field experiment monitoring multiple 200 m² rooftop configurations in subtropical Hong Kong—comparing bare roofs, PV roofs, and PV-integrated green roofs (PVIGRs). This study provides the first real-world evidence of their thermal trade-offs. The work has been reported in PV Magazine (https://www.pv-magazine.com/2025/06/10/rooftop-pv-may-unintentionally-exacerbate-urban-heat/).
 
+
 References: 
+
 [1] Chen, L., Lin, Z., Zhou, Q, Zhang, S., Li, M., Wang, Z. (2025). Impacts of photovoltaics and integrated green roofs on urban climate: Experimental insights for urban land surface modelling, Renewable and Sustainable Energy Reviews, 217 (2025) 115709. (https://doi.org/10.1016/j.rser.2025.115709)
 
 [2] Chen, L., Zhang, S., Cheng, I., Chang, H., Chen, F., Li, M., & Wang, Z. (2025). The Resilience Paradox of Rooftop PV: Building Cooling Penalties and Heat Risks. Building and Environment, 113233. (https://doi.org/10.1016/j.buildenv.2025.113233)
