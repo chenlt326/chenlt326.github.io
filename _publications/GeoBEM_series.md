@@ -6,8 +6,9 @@ date: 2025-12-31
 venue: 'Nexus, Sustainable Cities and Society, Building and Environment'
 ---
 
-Intro:  Cities drive global energy demand and emissions, yet urban-scale building energy modeling (UBEM) remains constrained by fragmented geospatial integration. Our GeoBEM framework bridges this gap by unifying GIS, automation, and physics-based simulations to enable high-resolution energy modeling across cities. We are currently leveraging this platform to test various building materials, retrofitting strategies, and green finance applications, with multiple exciting studies underway - stay tuned for forthcoming findings!
+Intro:  Cities account for a large share of global energy use and emissions, yet urban-scale building energy modeling (UBEM) is still limited by data gaps and nonstandard geospatial workflows. Our GeoBEM framework bridges this gap by unifying GIS integration, automated data pipelines, and physics-based simulations to enable high-resolution energy modeling across cities. We are leveraging this platform to evaluate various building materials, retrofit strategies, and green finance applications, with multiple exciting studies underway - stay tuned for forthcoming findings!
 
+**References:**
 
 **[1]** Zhang, S., Chen, L., Xu, L., & Wang, Z. (2025). GeoBEM: A geospatial computing empowered framework for urban-scale building energy modeling. *Sustainable Cities and Society*, 106203. 
 DOI: <https://doi.org/10.1016/j.scs.2025.106203>
