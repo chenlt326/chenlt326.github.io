@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
+Academic Experience
 ======
 * 2025 – present: Post-doctoral Researcher, Department of Urban Design and Planning, College of Built Environments, University of Washington, Seattle, WA, USA
   * Supervisor: Prof. Tzu-Hsin Karen Chen (kthchen@uw.edu)
