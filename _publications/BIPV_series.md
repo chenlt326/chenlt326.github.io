@@ -12,7 +12,6 @@ venue: 'Nexus, Renewable Energy, Building and Environment, Energy and Buildings'
 Intro:
 Building-integrated photovoltaics (BIPV) offer an effective way to expand urban renewables and cut carbon. Due to the lack of modelling tools, the microclimate impact of BIPV windows in street canyons has not been well understood. This series comprises four studies that progress from **model development and validation**, through **sensitivity analysis** and **parametric experiments**, to a **city-scale assessment** of climate–energy feedbacks.
 
-
 I like to deepen one topic through staged studies to ensure robustness—from mechanisms to large-scale analysis—because unjustified simplifications in numerical models can bias conclusions. The **latest city-scale study** builds directly on the three studies below.
 
 ## Latest city-scale study
@@ -35,6 +34,5 @@ DOI: <https://doi.org/10.1016/j.renene.2023.119740>
 
 
 ### Poster (first three studies)
-A concise overview of Studies [2–4]:  
-[**BIPV Poster (PDF)**](http://chenlt326.github.io/files/BIPV_Poster_LC.pdf)
+A concise overview of Studies [2–4]: [**BIPV Poster (PDF)**](http://chenlt326.github.io/files/BIPV_Poster_LC.pdf)
 
