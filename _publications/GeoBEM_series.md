@@ -2,7 +2,7 @@
 title: "GeoBEM Series: Geospatial computing for Urban-scale building energy solutions"
 collection: publications
 permalink: /publication/GeoBEM
-date: 2025-12-31
+date: 2025-06-30
 venue: 'Nexus, Sustainable Cities and Society, Building and Environment'
 ---
 
