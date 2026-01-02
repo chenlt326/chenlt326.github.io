@@ -16,9 +16,9 @@ Climate and energy systems are tightly coupled: rising temperatures increase coo
 
 ---
 ## Field Experiment — Rooftop Mitigation Strategies
-We conducted a full-scale experiment to explore different rooftop mitigation strategies. Below is a video introducing the experiment we conducted at HKUST, exploring different rooftop mitigation strategies.
-    
-<video width="560" height="315" controls>
+We conducted a full-scale experiment to test cool roofs, green options, and PV configurations. Below is a video introducing the experiment we conducted at HKUST, exploring different rooftop mitigation strategies.
+ 
+<video width="600" height="315" controls>
   <source src="http://chenlt326.github.io/files/Nov19_480p.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>  
