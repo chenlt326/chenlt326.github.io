@@ -9,16 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.E. (2019), Hydrology and Water Resources Engineering, School of Geography and Planning, Sun Yat-sen University, Guangzhou, China.
-  * Supervisor: Prof. Jianyao Chen (chenjyao@mail.sysu.edu.cn), Prof. Ming Luo (luom38@mail.sysu.edu.cn)
-  * GPA: 91/100
-* Ph.D. (2023), Civil and Environmental Engineering, Hong Kong University of Science and Technology, Hong Kong SAR, China.
-  * Supervisor: Prof. Jiachuan Yang (cejcyang@ust.hk)
-  * GPA: 3.922/4.3
-
-
 Work experience
 ======
 * 2025 – present: Post-doctoral Researcher, Department of Urban Design and Planning, College of Built Environments, University of Washington, Seattle, WA, USA
@@ -32,13 +22,23 @@ Work experience
   * Conducted tutorials, graded assignments/exams, and addressed student inquiries for undergraduate courses.
 
 
+Education
+======
+* Ph.D. (2023), Civil and Environmental Engineering, Hong Kong University of Science and Technology, Hong Kong SAR, China.
+  * Supervisor: Prof. Jiachuan Yang (cejcyang@ust.hk)
+  * GPA: 3.922/4.3
+
+* B.E. (2019), Hydrology and Water Resources Engineering, School of Geography and Planning, Sun Yat-sen University, Guangzhou, China.
+  * Supervisor: Prof. Jianyao Chen (chenjyao@mail.sysu.edu.cn), Prof. Ming Luo (luom38@mail.sysu.edu.cn)
+  * GPA: 91/100
+
+
 Research Interests
 ======
   * Urban Climate; Urban Heat Island; Land-Atmosphere Interaction; 
   * Urban-scale Building Energy Model; Green Building and Sustainable Development;
-  * Impact Assessment of Renewable Energy Technology (e.g., Photovoltaic panel and Building–integrated photovoltaic (BIPV) technology);
-  * Public Health; Human thermal comfort;
-  * Performance-driven Architecture and Urban Design.
+  * Impact Assessment of Renewable Energy Technology; 
+  * Public Health; Human thermal comfort; Climate–health equity.
 
 
 Selected Honors and Awards
