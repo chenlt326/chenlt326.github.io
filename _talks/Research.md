@@ -53,6 +53,12 @@ Output: reproducible workflows and decision-ready indicators for climate adaptat
 
 
 <!--
+2025 version
+Research
+Climate and energy systems are deeply interconnected, creating feedback loops that amplify challenges at both global and local scales. Rising temperatures drive increased cooling demand, whose waste heat further intensifies urban warming. Urban renewable technologies, such as PV, have great potential to improve energy efficiency and mitigate global warming.
+
+My research primarily focuses on the performance and impact of various urban heat island mitigation strategies within the fields of urban climate and building energy, leveraging both experimental and simulation methodologies.
+
 <h2>Modelling Study</h2>
 When city has large-scale implementation of vertical PV facade, their impacts on urban energy balance are unknown. To fill the research gap, a building-integrated photovoltaic parameterization scheme has been developed and incorporated into a building energy model coupled with a single-layer urban canopy model (BEM-SLUCM). This modelling framework facilitates a detailed analysis of indoor-outdoor interactions and assesses the impacts of PV and green strategies on urban climate.-->
 
