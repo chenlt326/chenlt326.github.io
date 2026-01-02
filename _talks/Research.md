@@ -40,7 +40,7 @@ To analyze indoor–outdoor interactions, I couple a *building energy model* wit
 
 - **GeoBEM platform**: GeoBEM: A geospatial computing empowered framework for urban-scale building energy modeling (*Sustainable Cities and Society*, 2025). 
   DOI: <https://doi.org/10.1016/j.scs.2025.106203>
-<https://doi.org/10.1016/j.buildenv.2024.112428>
+
 
 Curious about how buildings use energy across Hong Kong?  
 👉 <a href="http://cez027.ce.ust.hk/HongKongUrbanEnergy/UrbanEnergy.html" target="_blank" rel="noopener noreferrer">Explore the interactive UBEM map</a>.
