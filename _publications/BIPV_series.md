@@ -15,7 +15,7 @@ Building-integrated photovoltaics (BIPV) offer an effective way to expand urban 
 I like to deepen one topic through staged studies to ensure robustness—from mechanisms to large-scale analysis—because unjustified simplifications in numerical models can bias conclusions. The **latest city-scale study** builds directly on the three studies below.
 
 ## Latest city-scale study
-**[1]** Chen, L., Zhang, S., Li, X. C., Chui, T. F. M., Yang, J., Wang, W., Hong, T., & Wang, Z. (2026). *Mitigating Urban Climate–Energy Feedback with Citywide Building-Integrated Photovoltaics Implementation.* **Nexus**.  
+**[1]** Chen, L., Zhang, S., Li, X. C., Chui, T. F. M., Yang, J., Wang, W., Hong, T., & Wang, Z. (2026). Mitigating Urban Climate–Energy Feedback with Citywide Building-Integrated Photovoltaics Implementation. Nexus.  
 Full text: <https://www.cell.com/nexus/fulltext/S2950-1601(25)00061-0>
 
 ## Foundations of the series
