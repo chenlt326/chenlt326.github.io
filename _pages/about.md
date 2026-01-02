@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p>
-I am a Postdoctoral Researcher at the University of Washington (Department of Urban Design &amp; Planning) working with Dr. Tzu-Hsin Karen Chen. My research integrates geospatial data science, remote sensing, and field measurements with urban climate and building-energy modeling to quantify how urbanization and surface modifications reshape heat exposure, energy demand, and health risks. At UW, I am advancing continental-scale analyses for a NASA-funded project on 3D urban change and humid-heat impacts across the Mediterranean. 
+I am a Postdoctoral Researcher at the University of Washington (Department of Urban Design &amp; Planning) working with Dr. Tzu-Hsin Karen Chen. My research integrates geospatial data science, remote sensing, and field measurements with urban climate and building-energy modeling to quantify how urbanization and surface modifications reshape heat exposure, energy demand, and health risks. At UW, I work on a NASA-funded project that examines how 3D urban change shapes humid-heat impacts across the Mediterranean.
 Previously, I was a Postdoctoral Researcher at The Hong Kong University of Science and Technology (HKUST) <a href="https://walterzwang.github.io/" style="text-decoration: none;">Smart Building and Construction Lab</a> and got my Ph.D. in Civil and Environmental Engineering at HKUST <a href="https://cejcyang.people.ust.hk/index.html" style="text-decoration: none;">Urban Climate Research Group</a>, following a B.Eng. from Sun Yat-sen University. 
 My goal is to provide evidence-based, actionable insights that support the design of climate-resilient, low-carbon cities.
 </p>
