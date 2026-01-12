@@ -53,35 +53,35 @@ Selected Honors and Awards
 
 Publications
 ======
-[1] Chen, L., Zhang, S., Li, X. C., Chui, T. F. M., Yang, J., Wang, W., Hong, T., & Wang, Z. (2026). Mitigating Urban Climate-Energy Feedback with Citywide Building-Integrated Photovoltaics Implementation. Nexus.
+[1] **Chen, L.**, Zhang, S., Li, X. C., Chui, T. F. M., Yang, J., Wang, W., Hong, T., & Wang, Z. (2026). Mitigating Urban Climate-Energy Feedback with Citywide Building-Integrated Photovoltaics Implementation. Nexus.
 
-[2] Chen, L., Zhang, S., Cheng, I., Chang, H., Chen, F., Li, M., & Wang, Z. (2025). The Resilience Paradox of Rooftop PV: Building Cooling Penalties and Heat Risks. Building and Environment, 113233.
+[2] **Chen, L.**, Zhang, S., Cheng, I., Chang, H., Chen, F., Li, M., & Wang, Z. (2025). The Resilience Paradox of Rooftop PV: Building Cooling Penalties and Heat Risks. Building and Environment, 113233.
 
-[3] Chen, L., Lin, Z., Zhou, Q, Zhang, S., Li, M., Wang, Z. (2025). Impacts of photovoltaics and integrated green roofs on urban climate: Experimental insights for urban land surface modelling, Renewable and Sustainable Energy Reviews 217 (2025) 115709.
+[3] **Chen, L.**, Lin, Z., Zhou, Q, Zhang, S., Li, M., Wang, Z. (2025). Impacts of photovoltaics and integrated green roofs on urban climate: Experimental insights for urban land surface modelling, Renewable and Sustainable Energy Reviews 217 (2025) 115709.
 
-[4] Chen, L., Yang, J., & Zheng, X. (2024). Modelling the impact of building energy consumption on urban thermal environment: The bias of the inventory approach. Urban Climate, 53, 101802.
+[4] **Chen, L.**, Yang, J., & Zheng, X. (2024). Modelling the impact of building energy consumption on urban thermal environment: The bias of the inventory approach. Urban Climate, 53, 101802.
 
-[5] Chen, L., Sun, Y., Zhang, N., Yang, J., & Wang, D. (2024). Quantifying the benefits of BIPV windows in urban environment under climate change: A comparison of three Chinese cities. Renewable Energy, 119740.
+[5] **Chen, L.**, Sun, Y., Zhang, N., Yang, J., & Wang, D. (2024). Quantifying the benefits of BIPV windows in urban environment under climate change: A comparison of three Chinese cities. Renewable Energy, 119740.
 
-[6] Chen, L., Yang, J., & Li, P. (2022). Modelling the effect of BIPV window in the built environment: Uncertainty and sensitivity. Building and Environment, 208, 108605.
+[6] **Chen, L.**, Yang, J., & Li, P. (2022). Modelling the effect of BIPV window in the built environment: Uncertainty and sensitivity. Building and Environment, 208, 108605.
 
-[7] Chen, L., Zheng, X., Yang, J., & Yoon, J. H. (2021). Impact of BIPV windows on building energy consumption in street canyons: Model development and validation. Energy and Buildings, 249, 111207.
+[7] **Chen, L.**, Zheng, X., Yang, J., & Yoon, J. H. (2021). Impact of BIPV windows on building energy consumption in street canyons: Model development and validation. Energy and Buildings, 249, 111207.
 
-[8] Chen, L., Chen, X., Cheng, L., Zhou, P., & Liu, Z. (2019). Compound hot droughts over China: Identification, risk patterns and variations. Atmospheric Research, 227, 210-219.
+[8] **Chen, L.**, Chen, X., Cheng, L., Zhou, P., & Liu, Z. (2019). Compound hot droughts over China: Identification, risk patterns and variations. Atmospheric Research, 227, 210-219.
 
-[9] Yu, H., Chen, L., Wang, J., Bao, C., Liu, Y., Li, Y., ... & Cheng, P. (2026). Energy-generating smart windows based on reversible metal electrodeposition. Materials Horizons.
+[9] Yu, H., **Chen, L.**, Wang, J., Bao, C., Liu, Y., Li, Y., ... & Cheng, P. (2026). Energy-generating smart windows based on reversible metal electrodeposition. Materials Horizons.
 
-[10] Zhang, S., Chen, L., Xu, L., & Wang, Z. (2025). GeoBEM: A geospatial computing empowered framework for urban-scale building energy modeling. Sustainable Cities and Society, 106203.
+[10] Zhang, S., **Chen, L.**, Xu, L., & Wang, Z. (2025). GeoBEM: A geospatial computing empowered framework for urban-scale building energy modeling. Sustainable Cities and Society, 106203.
 
-[11] Lieber, J., Chen, X., Chen, L., & Yang, J. (2025). Comparative analysis of microclimate simulations: Assessing the single-layer urban canopy model and ENVI-met in Hong Kong. Urban Climate, 64, 102621.
+[11] Lieber, J., Chen, X., **Chen, L.**, & Yang, J. (2025). Comparative analysis of microclimate simulations: Assessing the single-layer urban canopy model and ENVI-met in Hong Kong. Urban Climate, 64, 102621.
 
-[12] Zhang, S., Zhou, Y., Chen, L., Huang, Y., & Wang, Z. (2025). Inferring building type using textual data and Natural Language Processing for urban building energy modelling. Building and Environment, 269, 112428.
+[12] Zhang, S., Zhou, Y., **Chen, L.**, Huang, Y., & Wang, Z. (2025). Inferring building type using textual data and Natural Language Processing for urban building energy modelling. Building and Environment, 269, 112428.
 
-[13] Zheng, X., Chen, L., & Yang, J. (2023). Simulation framework for early design guidance of urban streets to improve outdoor thermal comfort and building energy efficiency in summer. Building and Environment, 228, 109815.
+[13] Zheng, X., **Chen, L.**, & Yang, J. (2023). Simulation framework for early design guidance of urban streets to improve outdoor thermal comfort and building energy efficiency in summer. Building and Environment, 228, 109815.
 
-[14] Wang, Y., Chen, L., Song, Z., Huang, Z., Ge, E., Lin, L., & Luo, M. (2019). Human-perceived temperature changes over South China: Long-term trends and urbanization effects. Atmospheric Research, 215, 116-127.
+[14] Wang, Y., **Chen, L.**, Song, Z., Huang, Z., Ge, E., Lin, L., & Luo, M. (2019). Human-perceived temperature changes over South China: Long-term trends and urbanization effects. Atmospheric Research, 215, 116-127.
 
-[15] Song, Z., Chen, L., Wang, Y., Liu, X., Lin, L., & Luo, M. (2019). Effects of urbanization on the decrease in sunshine duration over eastern China. Urban Climate, 28, 100471.
+[15] Song, Z., **Chen, L.**, Wang, Y., Liu, X., Lin, L., & Luo, M. (2019). Effects of urbanization on the decrease in sunshine duration over eastern China. Urban Climate, 28, 100471.
 
 
 Conference Presentation
