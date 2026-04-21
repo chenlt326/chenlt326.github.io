@@ -55,37 +55,39 @@ Publications
 ======
 [1] **Chen, L.**, Zhang, S., Li, X. C., Chui, T. F. M., Yang, J., Wang, W., Hong, T., & Wang, Z. (2026). Mitigating Urban Climate-Energy Feedback with Citywide Building-Integrated Photovoltaics Implementation. Nexus.
 
-[2] **Chen, L.**, Zhang, S., Cheng, I., Chang, H., Chen, F., Li, M., & Wang, Z. (2025). The Resilience Paradox of Rooftop PV: Building Cooling Penalties and Heat Risks. Building and Environment, 113233.
+[2] **Chen, L.**, Chang, H., Zhang, S., Li, M., Li, L., Karamanis, D., & Wang, Z. (2026). Comparing Designs for Photovoltaic-Green Roofs: A Year-Long Field Study in a Subtropical Climate. Renewable Energy, 125805.
 
-[3] **Chen, L.**, Lin, Z., Zhou, Q, Zhang, S., Li, M., Wang, Z. (2025). Impacts of photovoltaics and integrated green roofs on urban climate: Experimental insights for urban land surface modelling, Renewable and Sustainable Energy Reviews 217 (2025) 115709.
+[3] **Chen, L.**, Zhang, S., Cheng, I., Chang, H., Chen, F., Li, M., & Wang, Z. (2025). The Resilience Paradox of Rooftop PV: Building Cooling Penalties and Heat Risks. Building and Environment, 113233.
 
-[4] **Chen, L.**, Yang, J., & Zheng, X. (2024). Modelling the impact of building energy consumption on urban thermal environment: The bias of the inventory approach. Urban Climate, 53, 101802.
+[4] **Chen, L.**, Lin, Z., Zhou, Q, Zhang, S., Li, M., Wang, Z. (2025). Impacts of photovoltaics and integrated green roofs on urban climate: Experimental insights for urban land surface modelling, Renewable and Sustainable Energy Reviews 217 (2025) 115709.
 
-[5] **Chen, L.**, Sun, Y., Zhang, N., Yang, J., & Wang, D. (2024). Quantifying the benefits of BIPV windows in urban environment under climate change: A comparison of three Chinese cities. Renewable Energy, 119740.
+[5] **Chen, L.**, Yang, J., & Zheng, X. (2024). Modelling the impact of building energy consumption on urban thermal environment: The bias of the inventory approach. Urban Climate, 53, 101802.
 
-[6] **Chen, L.**, Yang, J., & Li, P. (2022). Modelling the effect of BIPV window in the built environment: Uncertainty and sensitivity. Building and Environment, 208, 108605.
+[6] **Chen, L.**, Sun, Y., Zhang, N., Yang, J., & Wang, D. (2024). Quantifying the benefits of BIPV windows in urban environment under climate change: A comparison of three Chinese cities. Renewable Energy, 119740.
 
-[7] **Chen, L.**, Zheng, X., Yang, J., & Yoon, J. H. (2021). Impact of BIPV windows on building energy consumption in street canyons: Model development and validation. Energy and Buildings, 249, 111207.
+[7] **Chen, L.**, Yang, J., & Li, P. (2022). Modelling the effect of BIPV window in the built environment: Uncertainty and sensitivity. Building and Environment, 208, 108605.
 
-[8] **Chen, L.**, Chen, X., Cheng, L., Zhou, P., & Liu, Z. (2019). Compound hot droughts over China: Identification, risk patterns and variations. Atmospheric Research, 227, 210-219.
+[8] **Chen, L.**, Zheng, X., Yang, J., & Yoon, J. H. (2021). Impact of BIPV windows on building energy consumption in street canyons: Model development and validation. Energy and Buildings, 249, 111207.
 
-[9] Yu, H., **Chen, L.**, Wang, J., Bao, C., Liu, Y., Li, Y., ... & Cheng, P. (2026). Energy-generating smart windows based on reversible metal electrodeposition. Materials Horizons.
+[9] **Chen, L.**, Chen, X., Cheng, L., Zhou, P., & Liu, Z. (2019). Compound hot droughts over China: Identification, risk patterns and variations. Atmospheric Research, 227, 210-219.
 
-[10] Chen, Y., Lieber, J., **Chen, L.**, Zeng, L., Yang, J. (2026). Numerical simulation of vertical profiles of meteorological variables in urban neighborhoods: model development and validation, Journal of Advances in Modeling Earth Systems, Accept.
+[10] Yu, H., **Chen, L.**, Wang, J., Bao, C., Liu, Y., Li, Y., ... & Cheng, P. (2026). Energy-generating smart windows based on reversible metal electrodeposition. Materials Horizons.
 
-[11] Chang, H., Dong, P., Wei, X., **Chen, L.**, Tang, H., Wang, Z., ... & Li, M. (2026). Effects of photovoltaic module on wind dynamics over water surface for aquavoltaic applications. Renewable Energy, 125508.
+[11] Chen, Y., Lieber, J., **Chen, L.**, Zeng, L., Yang, J. (2026). Numerical simulation of vertical profiles of meteorological variables in urban neighborhoods: model development and validation, Journal of Advances in Modeling Earth Systems, Accept.
 
-[12] Zhang, S., **Chen, L.**, Xu, L., & Wang, Z. (2025). GeoBEM: A geospatial computing empowered framework for urban-scale building energy modeling. Sustainable Cities and Society, 106203.
+[12] Chang, H., Dong, P., Wei, X., **Chen, L.**, Tang, H., Wang, Z., ... & Li, M. (2026). Effects of photovoltaic module on wind dynamics over water surface for aquavoltaic applications. Renewable Energy, 125508.
 
-[13] Lieber, J., Chen, X., **Chen, L.**, & Yang, J. (2025). Comparative analysis of microclimate simulations: Assessing the single-layer urban canopy model and ENVI-met in Hong Kong. Urban Climate, 64, 102621.
+[13] Zhang, S., **Chen, L.**, Xu, L., & Wang, Z. (2025). GeoBEM: A geospatial computing empowered framework for urban-scale building energy modeling. Sustainable Cities and Society, 106203.
 
-[14] Zhang, S., Zhou, Y., **Chen, L.**, Huang, Y., & Wang, Z. (2025). Inferring building type using textual data and Natural Language Processing for urban building energy modelling. Building and Environment, 269, 112428.
+[14] Lieber, J., Chen, X., **Chen, L.**, & Yang, J. (2025). Comparative analysis of microclimate simulations: Assessing the single-layer urban canopy model and ENVI-met in Hong Kong. Urban Climate, 64, 102621.
 
-[15] Zheng, X., **Chen, L.**, & Yang, J. (2023). Simulation framework for early design guidance of urban streets to improve outdoor thermal comfort and building energy efficiency in summer. Building and Environment, 228, 109815.
+[15] Zhang, S., Zhou, Y., **Chen, L.**, Huang, Y., & Wang, Z. (2025). Inferring building type using textual data and Natural Language Processing for urban building energy modelling. Building and Environment, 269, 112428.
 
-[16] Wang, Y., **Chen, L.**, Song, Z., Huang, Z., Ge, E., Lin, L., & Luo, M. (2019). Human-perceived temperature changes over South China: Long-term trends and urbanization effects. Atmospheric Research, 215, 116-127.
+[16] Zheng, X., **Chen, L.**, & Yang, J. (2023). Simulation framework for early design guidance of urban streets to improve outdoor thermal comfort and building energy efficiency in summer. Building and Environment, 228, 109815.
 
-[17] Song, Z., **Chen, L.**, Wang, Y., Liu, X., Lin, L., & Luo, M. (2019). Effects of urbanization on the decrease in sunshine duration over eastern China. Urban Climate, 28, 100471.
+[17] Wang, Y., **Chen, L.**, Song, Z., Huang, Z., Ge, E., Lin, L., & Luo, M. (2019). Human-perceived temperature changes over South China: Long-term trends and urbanization effects. Atmospheric Research, 215, 116-127.
+
+[18] Song, Z., **Chen, L.**, Wang, Y., Liu, X., Lin, L., & Luo, M. (2019). Effects of urbanization on the decrease in sunshine duration over eastern China. Urban Climate, 28, 100471.
 
 
 Conference Presentation
@@ -117,14 +119,16 @@ Projects
 ======
 [1] Three-dimensional Urban LCLUC and Heat Impacts on Human Health in the Mediterranean Region, NASA Grant, 80NSSC24K1039, 2025 – present, Key team member.
 
-[2] Toward 2060 Carbon Neutrality: Life-cycle Planning and Design of Photovoltaic Integrated Green Roof (PVIGR) Systems for Hong Kong and the Greater Bay Area, Hong Kong Research Grant Committee, Collaborative Research Fund, C6003-22Y, 2023 – 2026, Sub-task leader.
+[2] Developing Hong Kong as a Global Green Finance Centre. Research Grants Council (RGC) of Hong Kong, Theme-based Research Scheme (TRS), Grant No. T31–603/21-N, 2025–present. Participant. 
 
-[3] Interaction mechanisms between building energy consumption and urban climate, National Natural Science Foundation of China, 2021 – 2023, Key team member.
+[3] Toward 2060 Carbon Neutrality: Life-cycle Planning and Design of Photovoltaic Integrated Green Roof (PVIGR) Systems for Hong Kong and the Greater Bay Area, Hong Kong Research Grant Committee, Collaborative Research Fund, C6003-22Y, 2023 – 2026, Sub-task leader.
+
+[4] Interaction mechanisms between building energy consumption and urban climate, National Natural Science Foundation of China, 2021 – 2023, Key team member.
 
 
 Service and Professional Memberships
 ======
-[1] Reviewer of Sustainable Cities and Society; The Innovation Geoscience; npj Urban Sustainability; Building and Environment; Energy and Buildings; Geography and Sustainability; Atmospheric Chemistry and Physics; Scientific Data; Urban Climate; Journal of Applied Meteorology and Climatology; Building Simulation; Journal of Asian Architecture and Building Engineering.
+[1] Reviewer of Sustainable Cities and Society; Applied Energy; The Innovation Geoscience; npj Urban Sustainability; Building and Environment; Energy and Buildings; Geography and Sustainability; Atmospheric Chemistry and Physics; Scientific Data; Urban Climate; Journal of Applied Meteorology and Climatology; Building Simulation; Journal of Asian Architecture and Building Engineering.
 
 [2] Member of American Geophysical Union (AGU), since 2022.
 
