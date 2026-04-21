@@ -21,13 +21,13 @@ DOI: <https://doi.org/10.1016/j.renene.2026.125805>
 **[3]** Chen, L., Zhang, S., Cheng, I., Chang, H., Chen, F., Li, M., & Wang, Z. (2025). The Resilience Paradox of Rooftop PV: Building Cooling Penalties and Heat Risks. Building and Environment, 113233. 
 DOI: <https://doi.org/10.1016/j.buildenv.2025.113233>
 
+
 Key Findings:
 <!-- - PV Heat Island Effect: PV roofs elevated local air temperatures by over 4 °C on sunny days, increasing top-floor monthly cooling demand by 1.5% during heatwaves and extending "Extreme Danger" heat exposure by 29.8% during power outages.  --> 
 - PV heat island effect: PV roofs elevated local air temperatures by more than 4 °C on sunny days.
 
-- PVIGR as a climate-adaptive design: PVIGRs did not produce a clear cooling effect above the panels, but they reduced canopy temperatures beneath the panels and, under well-designed configurations, improved annual noontime power output by up to 3.7%.
+- PVIGR as a climate-adaptive design: PVIGRs did not produce a clear cooling effect above the panels, but they reduced canopy temperatures beneath the panels and improved annual noontime power output by up to 3.7% under well-designed configurations, highlighting the importance of balancing vegetation-driven cooling against shading and restricted airflow.
 
-- Design matters: The benefits of PVIGR were strongly configuration-dependent, reflecting the balance between vegetation-driven cooling and losses caused by shading and restricted airflow.
 
 These studies show that rooftop PV should be understood as an integrated climate–energy system rather than an electricity-only technology. They highlight the need for climate-adaptive PV designs that jointly consider power generation, local thermal effects, building energy demand, and urban heat resilience.
 
