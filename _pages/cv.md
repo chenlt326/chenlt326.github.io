@@ -53,7 +53,7 @@ Selected Honors and Awards
 
 Publications
 ======
-[1] **Chen, L.**, Zhang, S., Li, X. C., Chui, T. F. M., Yang, J., Wang, W., Hong, T., & Wang, Z. (2026). Mitigating Urban Climate-Energy Feedback with Citywide Building-Integrated Photovoltaics Implementation. Nexus.
+[1] **Chen, L.**, Zhang, S., Li, X. C., Chui, T. F. M., Yang, J., Wang, W., Hong, T., & Wang, Z. (2026). Mitigating urban climate-energy feedback with citywide building-integrated photovoltaics implementation. Nexus, 3(1).
 
 [2] **Chen, L.**, Chakraborty, T. C., Casey, J. A., Huang, C. H., & Chen, T. H. K. (2026). Heat metrics and thresholds reshape population exposure and inequality signals. Environmental Research Letters.
 
