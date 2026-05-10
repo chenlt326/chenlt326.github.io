@@ -130,7 +130,7 @@ Projects
 
 Service and Professional Memberships
 ======
-[1] Reviewer of Sustainable Cities and Society; Applied Energy; The Innovation Geoscience; npj Urban Sustainability; Building and Environment; Energy and Buildings; Geography and Sustainability; Atmospheric Chemistry and Physics; Scientific Data; Urban Climate; Journal of Applied Meteorology and Climatology; Building Simulation; Journal of Asian Architecture and Building Engineering.
+[1] Reviewer of Nexus, Sustainable Cities and Society; Applied Energy; The Innovation Geoscience; npj Urban Sustainability; Building and Environment; Energy and Buildings; Environmental Research Letters; Geography and Sustainability; Atmospheric Chemistry and Physics; Scientific Data; Urban Climate; Journal of Applied Meteorology and Climatology; Building Simulation; Journal of Asian Architecture and Building Engineering.
 
 [2] Member of American Geophysical Union (AGU), since 2022.
 
@@ -138,6 +138,9 @@ Service and Professional Memberships
 
 [4] Member of International Association for Urban Climate (IAUC), since 2023.
 
+[5] Member of International Association for Urban Climate (IAUC), since 2023.
+
+[6] Member of International Society of Exposure Science (ISES), since 2026.
   
 Skills
 ======
