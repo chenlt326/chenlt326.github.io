@@ -48,8 +48,13 @@ Curious about how buildings use energy across Hong Kong?
 ---
 
 ## Remote Sensing & Geospatial Analysis — Heat Exposure & Equity
-As part of a NASA-funded study on 3D urban change and humid-heat across the Mediterranean, I am building a geospatial analytics pipeline to quantify extreme heat exposure and equity.
-Output: reproducible workflows and decision-ready indicators for climate adaptation and public health planning (Results will be posted here upon publication). 
+As part of a NASA-funded study on 3D urban change and humid-heat across the Mediterranean, I am building a geospatial analytics pipeline to quantify extreme heat exposure and equality.
+Output: reproducible workflows and decision-ready indicators for climate adaptation and public health planning. 
+DOI: <https://iopscience.iop.org/article/10.1088/1748-9326/ae6711>
+
+<img src="/images/Heat_Exposure.png"/>
+*Figure 4. Heat metrics and thresholds reshape population exposure and inequality signals.*
+
 
 
 <!--
