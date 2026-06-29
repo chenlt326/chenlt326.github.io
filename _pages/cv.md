@@ -132,7 +132,7 @@ Projects
 
 Service and Professional Memberships
 ======
-[1] Reviewer of Nexus, Sustainable Cities and Society; Applied Energy; The Innovation Geoscience; npj Urban Sustainability; Building and Environment; Energy and Buildings; Environmental Research Letters; Geography and Sustainability; Atmospheric Chemistry and Physics; Scientific Data; Urban Climate; Journal of Applied Meteorology and Climatology; Building Simulation; Journal of Asian Architecture and Building Engineering.
+[1] Reviewer for 17 SCI-indexed journals: Nexus; Earth’s Future; Sustainable Cities and Society; Applied Energy; The Innovation Geoscience; npj Urban Sustainability; Environmental Research Letters; Building and Environment; Energy and Buildings; Geography and Sustainability; Atmospheric Chemistry and Physics; Scientific Data; Urban Climate; Journal of Applied Meteorology and Climatology; Journal of Asian Architecture and Building Engineering; Building Simulation; Climatic Change.
 
 [2] Member of American Geophysical Union (AGU), since 2022.
 
