@@ -127,8 +127,12 @@ author_profile: true
 **Aug 2022**
 
 * I presented a poster at the 19th Annual Meeting of the Asia Oceania Geosciences Society (AOGS).
-  
-**Jan 2022**
+
+**May 2022**
+
+* I was awarded the RedBird Academic Excellence Award by the HKUST Fok Ying Tung Graduate School.
+
+**Nov 2021**
 
 * Our paper, “Modelling the effect of BIPV window in the built environment: Uncertainty and sensitivity,” was accepted by *Building and Environment*.
   
