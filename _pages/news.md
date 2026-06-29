@@ -84,7 +84,7 @@ author_profile: true
   display: grid;
   grid-template-columns: 1.05fr 0.95fr;
   gap: 10px;
-  max-width: 790px;
+  max-width: 820px;
   margin: 10px auto 28px auto;
   align-items: stretch;
 }
