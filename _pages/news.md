@@ -113,7 +113,7 @@ author_profile: true
 
 **Aug 2023**
 
-* I presented my research at the 11th International Conference on Urban Climate (ICUC) in Sydney.
+* I gave an oral presentation at the 11th International Conference on Urban Climate (ICUC) in Sydney.
   
 **May 2023**
 
@@ -135,7 +135,11 @@ author_profile: true
 **Nov 2021**
 
 * Our paper, “Modelling the effect of BIPV window in the built environment: Uncertainty and sensitivity,” was accepted by *Building and Environment*.
-  
+
+**Oct 2021**
+
+* I gave an oral presentation at the 8th National Urban Meteorological Academic Forum, Chinese Meteorological Society.
+ 
 **Jun 2021**
 
 * Our paper, “Impact of BIPV windows on building energy consumption in street canyons: Model development and validation,” was accepted by *Energy and Buildings*.
