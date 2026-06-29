@@ -113,7 +113,7 @@ author_profile: true
 
 **Aug 2023**
 
-* I presented my research at the <a href="https://icuc11.com/" style="text-decoration: none;" a>11th International Conference on Urban Climate (ICUC) in Sydney.
+* I presented my research at the <a href="https://icuc11.com/" style="text-decoration: none;">11th International Conference on Urban Climate (ICUC)</a> in Sydney.
   
 **May 2023**
 
