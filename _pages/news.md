@@ -11,7 +11,7 @@ author_profile: true
 
 **May 2026**
 
-* Our paper, “Heat Metrics and Thresholds Reshape Population Exposure and Inequality Signals,” was accepted by *Environmental Research Letters*.
+* Our paper, “Heat Metrics and Thresholds Reshape Population Exposure and Inequality Signals,” was accepted by *Environmental Research Letters* and featured as a <a href="https://csde.washington.edu/news-events/chen-casey-and-co-authors-show-that-heat-metric-and-threshold-choice-reshape-population-exposure-and-inequality-estimates/" style="text-decoration: none;">CSDE Research Highlight</a>. 
 
 **Apr 2026**
 
@@ -31,6 +31,10 @@ author_profile: true
 **Aug 2025**
 
 * I was invited to give a talk at the Building and Vehicle Air Environment Seminar of Young Scholars.
+
+**Jun 2025**
+
+* Our rooftop PV study was featured by <a href="https://www.pv-magazine.com/2025/06/10/rooftop-pv-may-unintentionally-exacerbate-urban-heat/" style="text-decoration: none;">pv magazine</a>, highlighting the urban microclimate and heat-resilience implications of large-scale rooftop photovoltaic deployment.
 
 **May 2025**
 
