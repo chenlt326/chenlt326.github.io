@@ -1,11 +1,10 @@
 ---
-
 layout: archive
 title: "Recent News"
 permalink: /news/
 author_profile: true
-
 ---
+
 **Jun 2026**
 
 * I led an eScience Institute Postdoctoral Lunch Seminar at the University of Washington, titled “Google Earth Engine for Reproducible Earth Data Science: From Hourly Climate Grids to Population Exposure.”
