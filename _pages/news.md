@@ -17,8 +17,6 @@ author_profile: true
 
 * Our paper, “Comparing Designs for Photovoltaic-Green Roofs: A Year-Long Field Study in a Subtropical Climate,” was accepted by *Renewable Energy*.
 
-**2025**
-
 **Dec 2025**
 
 * Our paper, “Mitigating Urban Climate-Energy Feedback with Citywide Building-Integrated Photovoltaics Implementation,” was accepted by *Nexus*.
@@ -44,9 +42,6 @@ author_profile: true
 
 * Our paper, “Impacts of Photovoltaics and Integrated Green Roofs on Urban Climate: Experimental Insights for Urban Land Surface Modelling,” was accepted by *Renewable and Sustainable Energy Reviews*.
 
-
-**2024**
-
 **Dec 2024**
 
 * I presented an eLightning talk at the 2024 AGU Fall Meeting, American Geophysical Union, Washington, DC.
@@ -66,8 +61,6 @@ author_profile: true
 **Jan 2024**
 
 * Our paper, “Modelling the Impact of Building Energy Consumption on Urban Thermal Environment: The Bias of the Inventory Approach,” was accepted by *Building and Environment*.
-
-**2023**
 
 **Dec 2024**
 
@@ -104,9 +97,7 @@ author_profile: true
 
 **Aug 2023**
 
-* I attended the <a href="https://icuc11.com/" style="text-decoration: none;">11th International Conference on Urban Climate (ICUC)</a> in Sydney and presented my research.
-  <div class="image-with-text">
-     <img src='/images/Photo_ICUC.png' style="max-width: 60%; max-height: 420px; width: auto; height: auto; float: left; margin-right: 25px;">
+* I attended the <a href="https://icuc11.com/" style="text-decoration: none;">11th International Conference on Urban Climate (ICUC) in Sydney and presented my research.
   
 **May 2023**
 
