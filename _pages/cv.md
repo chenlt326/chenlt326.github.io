@@ -94,27 +94,29 @@ Publications
 
 Conference Presentation
 ======
-[1] Building and Vehicle Air Environment Seminar of Young Scholars. Oral, Online, Aug 2025. 
+[1] eScience Institute Postdoctoral Lunch Seminar, University of Washington. Seminar presentation, Seattle, WA, USA, Jun 2026.
 
-[2] 2024 AGU Fall Meeting, American Geophysical Union (AGU). Elightning and Poster, Washington, DC (United States), Dec 2024.
+[2] Building and Vehicle Air Environment Seminar of Young Scholars. Oral, Online, Aug 2025. 
 
-[3] 10th National Urban Meteorological Academic Forum, Chinese Meteorological Society. Poster, Hangzhou (China), Oct 2024.
+[3] 2024 AGU Fall Meeting, American Geophysical Union (AGU). Elightning and Poster, Washington, DC (United States), Dec 2024.
 
-[4] 2nd International Bay Area Urban Agglomeration Green Development Conference (IBACEC) and the 2024 Academic Annual Meeting of Urban Agglomeration Green Development Committee of Chinese Society for Urban Studies (CSUS), Oral, Macau, Aug 2024.
+[4] 10th National Urban Meteorological Academic Forum, Chinese Meteorological Society. Poster, Hangzhou (China), Oct 2024.
 
-[5] Asian University Alliance (AUA) Seminar – Smart and low carbon city, Oral & Session chair, Hong Kong, Jun 2024.
+[5] 2nd International Bay Area Urban Agglomeration Green Development Conference (IBACEC) and the 2024 Academic Annual Meeting of Urban Agglomeration Green Development Committee of Chinese Society for Urban Studies (CSUS), Oral, Macau, Aug 2024.
 
-[6] 11th International Conference on Urban Climate (ICUC), The International Association for Urban Climate (IAUC), Oral, Sydney (Australia), Aug 2023.
+[6] Asian University Alliance (AUA) Seminar – Smart and low carbon city, Oral & Session chair, Hong Kong, Jun 2024.
 
-[7] 20th Annual Meeting, Asia Oceania Geosciences Society (AOGS). Oral, Singapore, Jul 2023.
+[7] 11th International Conference on Urban Climate (ICUC), The International Association for Urban Climate (IAUC), Oral, Sydney (Australia), Aug 2023.
 
-[8] 9th National Urban Meteorological Academic Forum. Chinese Meteorological Society. Oral, Xiong An (China), May 2023. Received Best Paper Award.
+[8] 20th Annual Meeting, Asia Oceania Geosciences Society (AOGS). Oral, Singapore, Jul 2023.
 
-[9] 2022 AGU Fall Meeting, American Geophysical Union (AGU). Poster, Chicago (US), Dec 2022.
+[9] 9th National Urban Meteorological Academic Forum. Chinese Meteorological Society. Oral, Xiong An (China), May 2023. Received Best Paper Award.
 
-[10] 19th Annual Meeting, Asia Oceania Geosciences Society (AOGS). Poster, Online, Aug 2022.
+[10] 2022 AGU Fall Meeting, American Geophysical Union (AGU). Poster, Chicago (US), Dec 2022.
 
-[11] 8th National Urban Meteorological Academic Forum, Chinese Meteorological Society. Oral, Online, Oct 2021.
+[11] 19th Annual Meeting, Asia Oceania Geosciences Society (AOGS). Poster, Online, Aug 2022.
+
+[12] 8th National Urban Meteorological Academic Forum, Chinese Meteorological Society. Oral, Online, Oct 2021.
 
   
 Projects
