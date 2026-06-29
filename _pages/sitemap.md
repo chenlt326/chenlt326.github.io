@@ -19,4 +19,4 @@ A quick overview of the main pages on this site.
 
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=NMrUZscAAAAJ&inst=1381320739207392350)
 * [ORCID](https://orcid.org/0000-0002-4206-6441)
-* [Linkedin](https://www.linkedin.com/in/liutao-chen-ab3727161/)
+* [LinkedIn](https://www.linkedin.com/in/liutao-chen-ab3727161/)
