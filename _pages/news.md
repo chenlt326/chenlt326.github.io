@@ -72,15 +72,12 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <div style="width: 45%;">
     <img src="/images/202311.png" style="width: 100%;">
-    <p>Officially be hooded as PhD o(*￣▽￣*)ブ!</p>
   </div>
   <div style="width: 45%;">
     <img src="/images/Photo31.png" style="width: 100%;">
-    <p>A photo with all my groupmates </p>
   </div>
   <div style="width: 45%;">
     <img src="/images/Photo4h.png" style="width: 100%;">
-    <p>A photo with my groupmate - Dr. Chen Xuan</p>
  </div>
   <hr>
   
