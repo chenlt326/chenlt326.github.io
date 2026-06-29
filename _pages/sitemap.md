@@ -1,10 +1,8 @@
 ---
-
 layout: archive
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
-
 ---
 
 A quick overview of the main pages on this site.
