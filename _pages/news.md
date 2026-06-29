@@ -69,9 +69,47 @@ author_profile: true
 **Nov 2023**
 
 * I received my Ph.D. in Civil and Environmental Engineering from The Hong Kong University of Science and Technology.
-<div class="phd-photo-grid"> <div class="phd-photo-left"> <img src="/images/202311.png" alt="Ph.D. hooding ceremony"> </div> <div class="phd-photo-right"> <img src="/images/Photo31.png" alt="Ph.D. graduation moment"> <img src="/images/Photo4h.png" alt="Ph.D. graduation group photo"> </div> </div>
+<div class="phd-photo-grid">
+  <div class="phd-photo-left">
+    <img src="/images/202311.png" alt="Ph.D. hooding ceremony">
+  </div>
+  <div class="phd-photo-right">
+    <img src="/images/Photo31.png" alt="Ph.D. graduation moment">
+    <img src="/images/Photo4h.png" alt="Ph.D. graduation group photo">
+  </div>
+</div>
 
-<style> .phd-photo-grid { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 15px; align-items: stretch; margin-top: 10px; margin-bottom: 25px; } .phd-photo-grid img { width: 100%; height: 100%; object-fit: cover; display: block; } .phd-photo-left img { height: 100%; } .phd-photo-right { display: grid; grid-template-rows: 1fr 1fr; gap: 15px; } @media (max-width: 700px) { .phd-photo-grid { grid-template-columns: 1fr; } } </style>
+<style>
+.phd-photo-grid {
+  display: grid;
+  grid-template-columns: 1.05fr 0.95fr;
+  gap: 10px;
+  max-width: 720px;
+  margin: 10px auto 28px auto;
+  align-items: stretch;
+}
+
+.phd-photo-grid img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.phd-photo-right {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  gap: 10px;
+}
+
+@media (max-width: 700px) {
+  .phd-photo-grid {
+    grid-template-columns: 1fr;
+    max-width: 100%;
+  }
+}
+</style>
+
 
 **Aug 2023**
 
