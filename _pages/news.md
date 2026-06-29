@@ -62,38 +62,40 @@ author_profile: true
 
 * Our paper, “Modelling the Impact of Building Energy Consumption on Urban Thermal Environment: The Bias of the Inventory Approach,” was accepted by *Building and Environment*.
 
-**Dec 2024**
+**Dec 2023**
 
 * Our paper, “Quantifying the Benefits of BIPV Windows in Urban Environments under Climate Change: A Comparison of Three Chinese Cities,” was accepted by *Renewable Energy*.
 
 **Nov 2023**
 
 * I received my Ph.D. in Civil and Environmental Engineering from The Hong Kong University of Science and Technology.
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <div style="width: 45%;">
-    <img src="/images/202311.png" style="width: 100%;">
-  </div>
-  <div style="width: 45%;">
-    <img src="/images/Photo31.png" style="width: 100%;">
-  </div>
-  <div style="width: 45%;">
-    <img src="/images/Photo4h.png" style="width: 100%;">
- </div>
-  <hr>
-  
-<style>
-  p {
-    margin-top: 5px;
-    margin-bottom: 5px;
-  }
-</style>
+<div class="phd-photo-grid"> <div class="phd-photo-left"> <img src="/images/202311.png" alt="Ph.D. hooding ceremony"> </div> <div class="phd-photo-right"> <img src="/images/Photo31.png" alt="Ph.D. graduation moment"> <img src="/images/Photo4h.png" alt="Ph.D. graduation group photo"> </div> </div>
+
+<style> .phd-photo-grid { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 15px; align-items: stretch; margin-top: 10px; margin-bottom: 25px; } .phd-photo-grid img { width: 100%; height: 100%; object-fit: cover; display: block; } .phd-photo-left img { height: 100%; } .phd-photo-right { display: grid; grid-template-rows: 1fr 1fr; gap: 15px; } @media (max-width: 700px) { .phd-photo-grid { grid-template-columns: 1fr; } } </style>
 
 **Aug 2023**
 
-* I attended the <a href="https://icuc11.com/" style="text-decoration: none;">11th International Conference on Urban Climate (ICUC) in Sydney and presented my research.
+* I presented my research at the <a href="https://icuc11.com/" style="text-decoration: none;" a>11th International Conference on Urban Climate (ICUC) in Sydney.
   
 **May 2023**
 
 * I presented my research at the 9th National Urban Meteorological Forum in Xiong’an, China, and received the Best Paper Award.
-<img src='/images/Photo_BJ.png'>
+<img src="/images/Photo_BJ.png" alt="9th National Urban Meteorological Forum" style="width: 100%; margin-top: 10px; margin-bottom: 25px;">
+  
+**Dec 2022**
+
+* I presented a poster at the 2022 AGU Fall Meeting in Chicago, United States.
+  
+**Aug 2022**
+
+* I presented a poster at the 19th Annual Meeting of the Asia Oceania Geosciences Society (AOGS).
+  
+**Jan 2022**
+
+* Our paper, “Modelling the effect of BIPV window in the built environment: Uncertainty and sensitivity,” was accepted by *Building and Environment*.
+  
+**Jun 2021**
+
+* Our paper, “Impact of BIPV windows on building energy consumption in street canyons: Model development and validation,” was accepted by *Energy and Buildings*.
+
 
