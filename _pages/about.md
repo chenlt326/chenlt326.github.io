@@ -18,7 +18,7 @@ My goal is to provide evidence-based, actionable insights that support the desig
   You are welcome to explore my
   <a href="https://chenlt326.github.io/research/" style="text-decoration: none;">Research</a>,
   <a href="https://chenlt326.github.io/publications/" style="text-decoration: none;">Publications</a>,
-  and <a href="https://chenlt326.github.io/cv/" style="text-decoration: none;">CV</a>.
+  <a href="https://chenlt326.github.io/cv/" style="text-decoration: none;">CV</a>, and <a href="https://chenlt326.github.io/news/" style="text-decoration: none;">News</a>
 </p>
 
 
