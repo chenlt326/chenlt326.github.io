@@ -73,23 +73,27 @@ Publications
 
 [10] **Chen, L.**, Chen, X., Cheng, L., Zhou, P., & Liu, Z. (2019). Compound hot droughts over China: Identification, risk patterns and variations. Atmospheric Research, 227, 210-219.
 
-[11] Yu, H., **Chen, L.**, Wang, J., Bao, C., Liu, Y., Li, Y., ... & Cheng, P. (2026). Energy-generating smart windows based on reversible metal electrodeposition. Materials Horizons.
+[11] Zhang, S., **Chen, L.**, Huang, Q., Wang, X., Wang, Z. (2026). An Integrated Energy–Carbon–Economic Assessment of Building Decarbonization at City Scale, Applied Energy, 424, 128406. (SCI，IF=12.2，中科院一区TOP，JCR Q1)
 
-[12] Chen, Y., Lieber, J., **Chen, L.**, Zeng, L., Yang, J. (2026). Numerical simulation of vertical profiles of meteorological variables in urban neighborhoods: model development and validation, Journal of Advances in Modeling Earth Systems, Accept.
+[12] Huang, Q., Zhang, S., **Chen, L.**, Wang, X., Wang, Z., Zhang, C. (2026). Structural Constraints on Building Decarbonization in Electricity-dominant Cities, Nexus, Accepted. (Cell Press旗下期刊，Scopus收录，IF暂未公布) 
 
-[13] Chang, H., Dong, P., Wei, X., **Chen, L.**, Tang, H., Wang, Z., ... & Li, M. (2026). Effects of photovoltaic module on wind dynamics over water surface for aquavoltaic applications. Renewable Energy, 125508.
+[13] Yu, H., **Chen, L.**, Wang, J., Bao, C., Liu, Y., Li, Y., ... & Cheng, P. (2026). Energy-generating smart windows based on reversible metal electrodeposition. Materials Horizons.
 
-[14] Zhang, S., **Chen, L.**, Xu, L., & Wang, Z. (2025). GeoBEM: A geospatial computing empowered framework for urban-scale building energy modeling. Sustainable Cities and Society, 106203.
+[14] Chen, Y., Lieber, J., **Chen, L.**, Zeng, L., Yang, J. (2026). Numerical simulation of vertical profiles of meteorological variables in urban neighborhoods: model development and validation, Journal of Advances in Modeling Earth Systems, Accept.
 
-[15] Lieber, J., Chen, X., **Chen, L.**, & Yang, J. (2025). Comparative analysis of microclimate simulations: Assessing the single-layer urban canopy model and ENVI-met in Hong Kong. Urban Climate, 64, 102621.
+[15] Chang, H., Dong, P., Wei, X., **Chen, L.**, Tang, H., Wang, Z., ... & Li, M. (2026). Effects of photovoltaic module on wind dynamics over water surface for aquavoltaic applications. Renewable Energy, 125508.
 
-[16] Zhang, S., Zhou, Y., **Chen, L.**, Huang, Y., & Wang, Z. (2025). Inferring building type using textual data and Natural Language Processing for urban building energy modelling. Building and Environment, 269, 112428.
+[16] Zhang, S., **Chen, L.**, Xu, L., & Wang, Z. (2025). GeoBEM: A geospatial computing empowered framework for urban-scale building energy modeling. Sustainable Cities and Society, 106203.
 
-[17] Zheng, X., **Chen, L.**, & Yang, J. (2023). Simulation framework for early design guidance of urban streets to improve outdoor thermal comfort and building energy efficiency in summer. Building and Environment, 228, 109815.
+[17] Lieber, J., Chen, X., **Chen, L.**, & Yang, J. (2025). Comparative analysis of microclimate simulations: Assessing the single-layer urban canopy model and ENVI-met in Hong Kong. Urban Climate, 64, 102621.
 
-[18] Wang, Y., **Chen, L.**, Song, Z., Huang, Z., Ge, E., Lin, L., & Luo, M. (2019). Human-perceived temperature changes over South China: Long-term trends and urbanization effects. Atmospheric Research, 215, 116-127.
+[18] Zhang, S., Zhou, Y., **Chen, L.**, Huang, Y., & Wang, Z. (2025). Inferring building type using textual data and Natural Language Processing for urban building energy modelling. Building and Environment, 269, 112428.
 
-[19] Song, Z., **Chen, L.**, Wang, Y., Liu, X., Lin, L., & Luo, M. (2019). Effects of urbanization on the decrease in sunshine duration over eastern China. Urban Climate, 28, 100471.
+[19] Zheng, X., **Chen, L.**, & Yang, J. (2023). Simulation framework for early design guidance of urban streets to improve outdoor thermal comfort and building energy efficiency in summer. Building and Environment, 228, 109815.
+
+[20] Wang, Y., **Chen, L.**, Song, Z., Huang, Z., Ge, E., Lin, L., & Luo, M. (2019). Human-perceived temperature changes over South China: Long-term trends and urbanization effects. Atmospheric Research, 215, 116-127.
+
+[21] Song, Z., **Chen, L.**, Wang, Y., Liu, X., Lin, L., & Luo, M. (2019). Effects of urbanization on the decrease in sunshine duration over eastern China. Urban Climate, 28, 100471.
 
 
 Conference Presentation
@@ -123,12 +127,13 @@ Projects
 ======
 [1] Three-dimensional Urban LCLUC and Heat Impacts on Human Health in the Mediterranean Region, NASA Grant, 80NSSC24K1039, 2025 – present, Key team member.
 
-[2] Developing Hong Kong as a Global Green Finance Centre. Research Grants Council (RGC) of Hong Kong, Theme-based Research Scheme (TRS), Grant No. T31–603/21-N, 2025–present. Participant. 
+[2] A Multi-Faceted, Pan-Mediterranean Assessment of Urban Land Change for the Evaluation of Interconnected Climate Risks, NASA Grant, 80NSSC24K1247, 2025 – present, Key team member.
 
-[3] Toward 2060 Carbon Neutrality: Life-cycle Planning and Design of Photovoltaic Integrated Green Roof (PVIGR) Systems for Hong Kong and the Greater Bay Area, Hong Kong Research Grant Committee, Collaborative Research Fund, C6003-22Y, 2023 – 2026, Sub-task leader.
+[3] Developing Hong Kong as a Global Green Finance Centre. Research Grants Council (RGC) of Hong Kong, Theme-based Research Scheme (TRS), Grant No. T31–603/21-N, 2025–present. Participant. 
 
-[4] Interaction mechanisms between building energy consumption and urban climate, National Natural Science Foundation of China, 2021 – 2023, Key team member.
+[4] Toward 2060 Carbon Neutrality: Life-cycle Planning and Design of Photovoltaic Integrated Green Roof (PVIGR) Systems for Hong Kong and the Greater Bay Area, Hong Kong Research Grant Committee, Collaborative Research Fund, C6003-22Y, 2023 – 2026, Sub-task leader.
 
+[5] Interaction mechanisms between building energy consumption and urban climate, National Natural Science Foundation of China, 2021 – 2023, Key team member.
 
 Service and Professional Memberships
 ======
@@ -143,7 +148,7 @@ Service and Professional Memberships
 [5] Member of International Association for Urban Climate (IAUC), since 2023.
 
 [6] Member of International Society of Exposure Science (ISES), since 2026.
-  
+
 Skills
 ======
 Programming: MATLAB, Python, Fortran.
