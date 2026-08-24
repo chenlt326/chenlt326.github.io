@@ -73,9 +73,9 @@ Publications
 
 [10] **Chen, L.**, Chen, X., Cheng, L., Zhou, P., & Liu, Z. (2019). Compound hot droughts over China: Identification, risk patterns and variations. Atmospheric Research, 227, 210-219.
 
-[11] Zhang, S., **Chen, L.**, Huang, Q., Wang, X., Wang, Z. (2026). An Integrated Energy–Carbon–Economic Assessment of Building Decarbonization at City Scale, Applied Energy, 424, 128406. (SCI，IF=12.2，中科院一区TOP，JCR Q1)
+[11] Zhang, S., **Chen, L.**, Huang, Q., Wang, X., Wang, Z. (2026). An Integrated Energy–Carbon–Economic Assessment of Building Decarbonization at City Scale, Applied Energy, 424, 128406.
 
-[12] Huang, Q., Zhang, S., **Chen, L.**, Wang, X., Wang, Z., Zhang, C. (2026). Structural Constraints on Building Decarbonization in Electricity-dominant Cities, Nexus, Accepted. (Cell Press旗下期刊，Scopus收录，IF暂未公布) 
+[12] Huang, Q., Zhang, S., **Chen, L.**, Wang, X., Wang, Z., Zhang, C. (2026). Structural Constraints on Building Decarbonization in Electricity-dominant Cities. Nexus.
 
 [13] Yu, H., **Chen, L.**, Wang, J., Bao, C., Liu, Y., Li, Y., ... & Cheng, P. (2026). Energy-generating smart windows based on reversible metal electrodeposition. Materials Horizons.
 
