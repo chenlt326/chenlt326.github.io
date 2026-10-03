@@ -73,54 +73,62 @@ Publications
 
 [10] **Chen, L.**, Chen, X., Cheng, L., Zhou, P., & Liu, Z. (2019). Compound hot droughts over China: Identification, risk patterns and variations. Atmospheric Research, 227, 210-219.
 
-[11] Zhang, S., **Chen, L.**, Huang, Q., Wang, X., Wang, Z. (2026). An Integrated Energy–Carbon–Economic Assessment of Building Decarbonization at City Scale, Applied Energy, 424, 128406.
+[11] Wang, K., Wu, X., **Chen, L.**, Chen, T.H.K., Xiao, W. (2026). (2026). Three decades of urban densification reduced winter direct sunlight access across China’s old urban cores. Proceedings of the National Academy of Sciences, 123(40), e2624733123.
 
-[12] Huang, Q., Zhang, S., **Chen, L.**, Wang, X., Wang, Z., Zhang, C. (2026). Structural Constraints on Building Decarbonization in Electricity-dominant Cities. Nexus.
+[12] Zhang, S., **Chen, L.**, Huang, Q., Wang, X., Wang, Z. (2026). An Integrated Energy–Carbon–Economic Assessment of Building Decarbonization at City Scale, Applied Energy, 424, 128406. 
 
-[13] Yu, H., **Chen, L.**, Wang, J., Bao, C., Liu, Y., Li, Y., ... & Cheng, P. (2026). Energy-generating smart windows based on reversible metal electrodeposition. Materials Horizons.
+[13] Cheng, I., **Chen, L.**, Chang, H., Lin, Z., Li, M., Wang, Z. (2026). High-resolution microclimate and photovoltaic power dataset for sustainable rooftop design in subtropical humid city, Scientific Data, Accepted.
 
-[14] Chen, Y., Lieber, J., **Chen, L.**, Zeng, L., Yang, J. (2026). Numerical simulation of vertical profiles of meteorological variables in urban neighborhoods: model development and validation, Journal of Advances in Modeling Earth Systems, Accept.
+[14] Huang, Q., Zhang, S., **Chen, L.**, Wang, X., Wang, Z., Zhang, C. (2026). Structural Constraints on Building Decarbonization in Electricity-dominant Cities. Nexus.
 
-[15] Chang, H., Dong, P., Wei, X., **Chen, L.**, Tang, H., Wang, Z., ... & Li, M. (2026). Effects of photovoltaic module on wind dynamics over water surface for aquavoltaic applications. Renewable Energy, 125508.
+[15] Yu, H., **Chen, L.**, Wang, J., Bao, C., Liu, Y., Li, Y., ... & Cheng, P. (2026). Energy-generating smart windows based on reversible metal electrodeposition. Materials Horizons.
 
-[16] Zhang, S., **Chen, L.**, Xu, L., & Wang, Z. (2025). GeoBEM: A geospatial computing empowered framework for urban-scale building energy modeling. Sustainable Cities and Society, 106203.
+[16] Chen, Y., Lieber, J., **Chen, L.**, Zeng, L., Yang, J. (2026). Numerical simulation of vertical profiles of meteorological variables in urban neighborhoods: model development and validation, Journal of Advances in Modeling Earth Systems, Accept.
 
-[17] Lieber, J., Chen, X., **Chen, L.**, & Yang, J. (2025). Comparative analysis of microclimate simulations: Assessing the single-layer urban canopy model and ENVI-met in Hong Kong. Urban Climate, 64, 102621.
+[17] Chang, H., Dong, P., Wei, X., **Chen, L.**, Tang, H., Wang, Z., ... & Li, M. (2026). Effects of photovoltaic module on wind dynamics over water surface for aquavoltaic applications. Renewable Energy, 125508.
 
-[18] Zhang, S., Zhou, Y., **Chen, L.**, Huang, Y., & Wang, Z. (2025). Inferring building type using textual data and Natural Language Processing for urban building energy modelling. Building and Environment, 269, 112428.
+[18] Zhang, S., **Chen, L.**, Xu, L., & Wang, Z. (2025). GeoBEM: A geospatial computing empowered framework for urban-scale building energy modeling. Sustainable Cities and Society, 106203.
 
-[19] Zheng, X., **Chen, L.**, & Yang, J. (2023). Simulation framework for early design guidance of urban streets to improve outdoor thermal comfort and building energy efficiency in summer. Building and Environment, 228, 109815.
+[19] Lieber, J., Chen, X., **Chen, L.**, & Yang, J. (2025). Comparative analysis of microclimate simulations: Assessing the single-layer urban canopy model and ENVI-met in Hong Kong. Urban Climate, 64, 102621.
 
-[20] Wang, Y., **Chen, L.**, Song, Z., Huang, Z., Ge, E., Lin, L., & Luo, M. (2019). Human-perceived temperature changes over South China: Long-term trends and urbanization effects. Atmospheric Research, 215, 116-127.
+[20] Zhang, S., Zhou, Y., **Chen, L.**, Huang, Y., & Wang, Z. (2025). Inferring building type using textual data and Natural Language Processing for urban building energy modelling. Building and Environment, 269, 112428.
 
-[21] Song, Z., **Chen, L.**, Wang, Y., Liu, X., Lin, L., & Luo, M. (2019). Effects of urbanization on the decrease in sunshine duration over eastern China. Urban Climate, 28, 100471.
+[21] Zheng, X., **Chen, L.**, & Yang, J. (2023). Simulation framework for early design guidance of urban streets to improve outdoor thermal comfort and building energy efficiency in summer. Building and Environment, 228, 109815.
+
+[22] Wang, Y., **Chen, L.**, Song, Z., Huang, Z., Ge, E., Lin, L., & Luo, M. (2019). Human-perceived temperature changes over South China: Long-term trends and urbanization effects. Atmospheric Research, 215, 116-127.
+
+[23] Song, Z., **Chen, L.**, Wang, Y., Liu, X., Lin, L., & Luo, M. (2019). Effects of urbanization on the decrease in sunshine duration over eastern China. Urban Climate, 28, 100471.
 
 
 Conference Presentation
 ======
-[1] eScience Institute Postdoctoral Lunch Seminar, University of Washington. Seminar presentation, Seattle, WA, USA, Jun 2026.
+[1] International Society of Exposure Science (ISES) 2026 Annual Meeting, Oral, Vancouver, Canada, Oct 2026.
 
-[2] Building and Vehicle Air Environment Seminar of Young Scholars. Oral, Online, Aug 2025. 
+[2] Northwest Preparedness and Resilience Conference, Poster, Seattle, USA, Sep 2026. 
 
-[3] 2024 AGU Fall Meeting, American Geophysical Union (AGU). Elightning and Poster, Washington, DC (United States), Dec 2024.
+[3] eScience Institute Postdoctoral Lunch Seminar, University of Washington. Seminar presentation, Seattle, WA, USA, Jun 2026.
 
-[4] 10th National Urban Meteorological Academic Forum, Chinese Meteorological Society. Poster, Hangzhou (China), Oct 2024.
+[4] Building and Vehicle Air Environment Seminar of Young Scholars. Oral, Online, Aug 2025. 
 
-[5] 2nd International Bay Area Urban Agglomeration Green Development Conference (IBACEC) and the 2024 Academic Annual Meeting of Urban Agglomeration Green Development Committee of Chinese Society for Urban Studies (CSUS), Oral, Macau, Aug 2024.
+[5] 2024 AGU Fall Meeting, American Geophysical Union (AGU). Elightning and Poster, Washington, DC (United States), Dec 2024.
 
-[6] Asian University Alliance (AUA) Seminar – Smart and low carbon city, Oral & Session chair, Hong Kong, Jun 2024.
+[6] 10th National Urban Meteorological Academic Forum, Chinese Meteorological Society. Poster, Hangzhou (China), Oct 2024.
 
-[7] 11th International Conference on Urban Climate (ICUC), The International Association for Urban Climate (IAUC), Oral, Sydney (Australia), Aug 2023.
+[7] 2nd International Bay Area Urban Agglomeration Green Development Conference (IBACEC) and the 2024 Academic Annual Meeting of Urban Agglomeration Green Development Committee of Chinese Society for Urban Studies (CSUS), Oral, Macau, Aug 2024.
 
-[8] 20th Annual Meeting, Asia Oceania Geosciences Society (AOGS). Oral, Singapore, Jul 2023.
+[8] Asian University Alliance (AUA) Seminar – Smart and low carbon city, Oral & Session chair, Hong Kong, Jun 2024.
 
-[9] 9th National Urban Meteorological Academic Forum. Chinese Meteorological Society. Oral, Xiong An (China), May 2023. Received Best Paper Award.
+[9] 11th International Conference on Urban Climate (ICUC), The International Association for Urban Climate (IAUC), Oral, Sydney (Australia), Aug 2023.
 
-[10] 2022 AGU Fall Meeting, American Geophysical Union (AGU). Poster, Chicago (US), Dec 2022.
+[10] 20th Annual Meeting, Asia Oceania Geosciences Society (AOGS). Oral, Singapore, Jul 2023.
 
-[11] 19th Annual Meeting, Asia Oceania Geosciences Society (AOGS). Poster, Online, Aug 2022.
+[11] 9th National Urban Meteorological Academic Forum. Chinese Meteorological Society. Oral, Xiong An (China), May 2023. Received Best Paper Award.
 
-[12] 8th National Urban Meteorological Academic Forum, Chinese Meteorological Society. Oral, Online, Oct 2021.
+[12] 2022 AGU Fall Meeting, American Geophysical Union (AGU). Poster, Chicago (US), Dec 2022.
+
+[13] 19th Annual Meeting, Asia Oceania Geosciences Society (AOGS). Poster, Online, Aug 2022.
+
+[14] 8th National Urban Meteorological Academic Forum, Chinese Meteorological Society. Oral, Online, Oct 2021.
 
   
 Projects
@@ -137,7 +145,7 @@ Projects
 
 Service and Professional Memberships
 ======
-[1] Reviewer for 17 SCI-indexed journals: Nexus; Earth’s Future; Sustainable Cities and Society; Applied Energy; The Innovation Geoscience; npj Urban Sustainability; Environmental Research Letters; Building and Environment; Energy and Buildings; Geography and Sustainability; Atmospheric Chemistry and Physics; Scientific Data; Urban Climate; Journal of Applied Meteorology and Climatology; Journal of Asian Architecture and Building Engineering; Building Simulation; Climatic Change.
+[1] Reviewer for 19 SCI-indexed journals: Renewable and Sustainable Energy Reviews; Nexus; Earth’s Future; Sustainable Cities and Society; Applied Energy; The Innovation Geoscience; npj Urban Sustainability; Environmental Research Letters; Building and Environment; Energy and Buildings; Geography and Sustainability; Urban Climate; Scientific Data; International Journal of Digital Earth; Building Simulation; Journal of Applied Meteorology and Climatology; Atmospheric Chemistry and Physics; Climatic Change; and Journal of Asian Architecture and Building Engineering.
 
 [2] Member of American Geophysical Union (AGU), since 2022.
 
@@ -149,15 +157,21 @@ Service and Professional Memberships
 
 [6] Member of International Society of Exposure Science (ISES), since 2026.
 
+Patent
+======
+[1] Wang, Z., Zhang, S., **Chen, L.**, Wu, Z., Li, L., Wang, C., & Liu, W. Urban-scale building energy simulation method, system, storage medium, and product. Chinese Patent Application No. 202410909228.6; preliminary examination passed.
+
 Skills
 ======
-Programming: MATLAB, Python, Fortran.
+Programming: MATLAB, Python, High-performance computing (HPC), Fortran.
 
 Climate modelling: Urban canopy model coupled with building energy model; Weather Research and Forecasting model.
 
 Building energy simulation: EnergyPlus, OpenStudio. 
 
-Others: Google Earth Engine (GEE), High-performance computing (HPC), ArcGIS, Microsoft Office, SketchUp, Adobe Illustrator.
+Earth observation & GeoAI: Google Earth Engine, AlphaEarth embeddings, deep learning for multi-temporal change detection, QGIS, ArcGIS.
+
+Others: Microsoft Office, SketchUp, Adobe Illustrator.
 
 Languages	Chinese (Mandarin: native, Hakka: native, Cantonese: fluent)
 
