@@ -39,7 +39,6 @@ Research Interests
   * Urban-scale Building Energy Model; Green Building and Sustainable Development;
   * Urban transformation, redevelopment, and building-stock change;
   * Earth observation and GeoAI for urban environmental analysis.
-  * Public Health; Human thermal comfort; Climate–health equity.
 
 Selected Honors and Awards
 ======
